@@ -1,0 +1,6 @@
+  [1/9] The Wealth of Nations (100 concepts, max 150 edges)
+    [warn] attempt 1 failed, retrying in 40s
+    [warn] attempt 2 failed, retrying in 59s
+    [warn] attempt 3 failed, retrying in 104s
+    [warn] attempt 1 failed, retrying in 15s
+    [warn] attempt 2 failed, retrying in 60s

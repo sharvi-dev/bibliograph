@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m venv .venv)",
+      "Bash(.venv/bin/python --version)",
+      "Bash(echo \"venv created, python: $\\(.venv/bin/python --version\\)\")",
+      "Bash(.venv/bin/pip install *)",
+      "Bash(.venv/bin/python -m src.ingestion.download_books)",
+      "Bash(.venv/bin/python -m src.ingestion.clean_text)",
+      "Bash(.venv/bin/python -m src.ingestion.fetch_metadata)",
+      "Bash(.venv/bin/python -m json.tool)",
+      "Bash(.venv/bin/python -c \"import spacy; spacy.load\\('en_core_web_lg'\\)\")",
+      "Bash(.venv/bin/python -m spacy download en_core_web_lg)",
+      "Bash(curl -s http://localhost:11434/api/tags)",
+      "Bash(.venv/bin/python -m src.graph.extract_concepts)",
+      "Bash(.venv/bin/python -c ' *)",
+      "Bash(nohup .venv/bin/python -m src.graph.type_relations)",
+      "Bash(echo \"PID: $!\")",
+      "Bash(curl -s http://localhost:11434/api/ps)",
+      "Bash(nohup .venv/bin/python -u -m src.graph.type_relations)",
+      "Bash(awk '{print \"CPU:\"$3\"% MEM:\"$4\"%\"}')",
+      "Bash(kill 7543)"
+    ]
+  }
+}
