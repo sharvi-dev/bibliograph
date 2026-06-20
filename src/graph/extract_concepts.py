@@ -88,6 +88,10 @@ def should_reject_concept(text: str, ent_label: str | None = None) -> bool:
     # reject honorific-prefixed names that slipped past NER (e.g. "dr. hooker")
     if any(text.startswith(p) for p in _TITLE_PREFIXES):
         return True
+    # reject "chapter i/ii/iii/..." and "section i/ii/..." structural artifacts
+    first_word = text.split()[0] if text.split() else ""
+    if first_word in ("chapter", "section", "book", "part", "volume", "appendix"):
+        return True
     return False
 
 

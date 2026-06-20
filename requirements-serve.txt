@@ -1,0 +1,12 @@
+# Minimal runtime requirements for serving (no spaCy / sentence-transformers pipeline)
+# torch and torch-geometric are installed separately in the Dockerfile
+# to use the CPU-only torch wheel index.
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+streamlit>=1.35.0
+streamlit-agraph>=0.0.45
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+scikit-learn>=1.4.0
+requests>=2.32.0
+numpy>=1.26.0

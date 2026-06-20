@@ -38,7 +38,8 @@
       "Read(//Library/Frameworks/**)",
       "Bash(/opt/homebrew/bin/python3 -c \"import torch; print\\(torch.__version__\\)\")",
       "Bash(/opt/homebrew/bin/python3 --version)",
-      "Bash(python3 -m venv venv)"
+      "Bash(python3 -m venv venv)",
+      "Bash(truncate -s 0 data/processed/relations.jsonl)"
     ]
   }
 }

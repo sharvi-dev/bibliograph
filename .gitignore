@@ -224,3 +224,12 @@ data/processed/*.json
 data/processed/*.jsonl
 data/processed/*.log
 data/processed/relations_log.txt
+
+# Explicitly track serving artifacts needed by Docker / HF Spaces
+!data/graph/
+!data/graph/bibliograph.pt
+!data/graph/node_lookup.json
+!data/graph/evidence_lookup.json
+!data/graph/cross_book_pairs.pt
+!data/graph/link_split.pt
+!model_best.pt

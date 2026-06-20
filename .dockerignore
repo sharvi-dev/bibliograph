@@ -1,0 +1,23 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.git/
+.gitignore
+
+# raw and processed pipeline data (not needed at serve time)
+data/raw/
+data/processed/
+
+# dev / notebook files
+notebooks/
+tests/
+*.md
+Makefile
+
+# build artifacts
+*.egg-info/
+dist/
+build/

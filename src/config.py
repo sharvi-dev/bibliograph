@@ -65,6 +65,24 @@ CONCEPT_BLOCKLIST: set[str] = {
     # publication and edition artifacts
     "chapter", "page", "section", "book", "author", "edition",
     "volume", "note", "footnote", "ibid", "b.c.", "b.c",
+    # book-structure artifacts (The Republic)
+    "book i", "book ii", "book iii", "book iv", "book v",
+    "book vi", "book vii", "book viii", "book ix", "book x",
+    # generic quantity / degree phrases
+    "considerable degree", "great degree", "highest degree",
+    "great difficulty", "little difficulty", "great importance",
+    "a way", "two ways", "one way", "last time", "first time",
+    "great number", "large number", "small number",
+    "those times", "old times", "present times", "modern times",
+    "whole world", "whole country", "whole army",
+    # Italian proper nouns (The Prince)
+    "colonnesi", "florentines", "orsini", "vitelli", "medici",
+    "venetians", "lombards", "pope alexander", "pope julius",
+    # Art of War commentator names
+    "ts'ao kung", "tu mu", "wang hsi", "ts'ai", "ho yen-hsi",
+    "chang yu", "mei yao-ch'en", "li ch'uan", "chen hao",
+    # archaic Leviathan artifacts
+    "latine", "phantasmes",
 }
 
 GUTENBERG_BOOKS = [

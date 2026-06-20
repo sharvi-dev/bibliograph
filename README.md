@@ -1,3 +1,13 @@
+---
+title: BiblioGraph
+emoji: 📚
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+app_port: 7860
+---
+
 # BiblioGraph
 
 A heterogeneous Graph Transformer that builds a cross-book knowledge graph from your reading history and discovers latent conceptual connections across books using link prediction.

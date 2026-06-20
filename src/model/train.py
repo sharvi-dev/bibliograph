@@ -1,83 +1,98 @@
-"""Training loop for the Graph Transformer link prediction model."""
+"""Training loop for HeteroBibliographGT link prediction."""
 import torch
 import torch.nn.functional as F
-from torch_geometric.data import HeteroData
-from src.config import GRAPH_SAVE_PATH, MODEL_SAVE_PATH
-from src.model.model import BibliographGT
-from src.model.dataset import split_edges, sample_negatives
+from sklearn.metrics import roc_auc_score
+from torch_geometric.utils import negative_sampling
+from src.config import GRAPH_SAVE_PATH, MODEL_SAVE_PATH, DATA_GRAPH
+from src.model.model import HeteroBibliographGT
 
+IN_CHANNELS = 384       # SBERT all-MiniLM-L6-v2
 HIDDEN_CHANNELS = 128
 OUT_CHANNELS = 64
 HEADS = 4
+DROPOUT = 0.1
 LR = 1e-3
-EPOCHS = 150
+WEIGHT_DECAY = 1e-5
+EPOCHS = 200
 LOG_EVERY = 10
+PATIENCE = 20           # early-stop if val AUC doesn't improve
 
 
-def train_epoch(model, optimizer, z, train_pos, num_nodes):
-    model.train()
-    optimizer.zero_grad()
-
-    train_neg = sample_negatives(train_pos, num_nodes)
-    pos_scores = model.predict_link(z, train_pos)
-    neg_scores = model.predict_link(z, train_neg)
-
-    labels = torch.cat([torch.ones(pos_scores.size(0)), torch.zeros(neg_scores.size(0))])
-    scores = torch.cat([pos_scores, neg_scores])
-    loss = F.binary_cross_entropy_with_logits(scores, labels)
-    loss.backward()
-    optimizer.step()
-    return loss.item()
-
-
-def evaluate(model, z, pos_edges, num_nodes):
-    from sklearn.metrics import roc_auc_score
+def _auc(model, z_dict, pos_ei, num_nodes: int) -> float:
     model.eval()
     with torch.no_grad():
-        neg_edges = sample_negatives(pos_edges, num_nodes)
-        pos_scores = torch.sigmoid(model.predict_link(z, pos_edges))
-        neg_scores = torch.sigmoid(model.predict_link(z, neg_edges))
-        labels = torch.cat([torch.ones(pos_scores.size(0)), torch.zeros(neg_scores.size(0))]).numpy()
-        scores = torch.cat([pos_scores, neg_scores]).numpy()
-    return roc_auc_score(labels, scores)
+        neg_ei = negative_sampling(pos_ei, num_nodes=num_nodes, num_neg_samples=pos_ei.shape[1])
+        pos_s = torch.sigmoid(model.predict_link(z_dict, pos_ei)).cpu().numpy()
+        neg_s = torch.sigmoid(model.predict_link(z_dict, neg_ei)).cpu().numpy()
+    import numpy as np
+    labels = np.concatenate([np.ones(len(pos_s)), np.zeros(len(neg_s))])
+    scores = np.concatenate([pos_s, neg_s])
+    return float(roc_auc_score(labels, scores))
 
 
 def train() -> None:
-    data: HeteroData = torch.load(GRAPH_SAVE_PATH, weights_only=False)
-    concept_x = data["concept"].x
-    num_nodes = concept_x.shape[0]
-    in_channels = concept_x.shape[1]
+    data = torch.load(GRAPH_SAVE_PATH, weights_only=False)
+    split = torch.load(DATA_GRAPH / "link_split.pt", weights_only=True)
 
-    # use all concept-concept edges collapsed across relation types
-    all_edges = []
-    for et in data.edge_types:
-        if et[0] == "concept" and et[2] == "concept":
-            all_edges.append(data[et].edge_index)
-    if not all_edges:
-        raise ValueError("No concept-concept edges found in graph.")
-    edge_index = torch.cat(all_edges, dim=1)
+    x_dict = data.x_dict
+    edge_index_dict = data.edge_index_dict
+    num_nodes = int(data["concept"].x.shape[0])
 
-    splits = split_edges(data)  # placeholder; real split needs concept-concept edge_index
-    train_pos = splits["train_pos"]
-    val_pos = splits["val_pos"]
+    train_pos = split["train_pos"]
+    val_pos   = split["val_pos"]
 
-    model = BibliographGT(in_channels, HIDDEN_CHANNELS, OUT_CHANNELS, HEADS)
-    optimizer = torch.optim.Adam(model.parameters(), lr=LR)
+    model = HeteroBibliographGT(
+        in_channels=IN_CHANNELS,
+        hidden_channels=HIDDEN_CHANNELS,
+        out_channels=OUT_CHANNELS,
+        metadata=data.metadata(),
+        heads=HEADS,
+        dropout=DROPOUT,
+    )
+    optimizer = torch.optim.Adam(model.parameters(), lr=LR, weight_decay=WEIGHT_DECAY)
 
     best_auc = 0.0
+    no_improve = 0
+
     for epoch in range(1, EPOCHS + 1):
-        z = model(concept_x, edge_index)
-        loss = train_epoch(model, optimizer, z, train_pos, num_nodes)
+        model.train()
+        optimizer.zero_grad()
+
+        z_dict = model(x_dict, edge_index_dict)
+
+        train_neg = negative_sampling(
+            train_pos, num_nodes=num_nodes, num_neg_samples=train_pos.shape[1]
+        )
+        pos_scores = model.predict_link(z_dict, train_pos)
+        neg_scores = model.predict_link(z_dict, train_neg)
+
+        scores = torch.cat([pos_scores, neg_scores])
+        labels = torch.cat([
+            torch.ones(train_pos.shape[1]),
+            torch.zeros(train_neg.shape[1]),
+        ])
+        loss = F.binary_cross_entropy_with_logits(scores, labels)
+        loss.backward()
+        optimizer.step()
+
         if epoch % LOG_EVERY == 0:
-            z = model(concept_x, edge_index)
-            auc = evaluate(model, z, val_pos, num_nodes)
-            print(f"Epoch {epoch:>3} | loss {loss:.4f} | val AUC {auc:.4f}")
+            z_dict = model(x_dict, edge_index_dict)
+            auc = _auc(model, z_dict, val_pos, num_nodes)
+            marker = ""
             if auc > best_auc:
                 best_auc = auc
+                no_improve = 0
                 torch.save(model.state_dict(), MODEL_SAVE_PATH)
-                print(f"  → saved best model (AUC {best_auc:.4f})")
+                marker = "  ← saved"
+            else:
+                no_improve += 1
+            print(f"epoch {epoch:>3} | loss {loss.item():.4f} | val AUC {auc:.4f}{marker}")
+            if no_improve >= PATIENCE // LOG_EVERY:
+                print(f"  early stop (no improvement for {PATIENCE} epochs)")
+                break
 
-    print(f"Training complete. Best val AUC: {best_auc:.4f}")
+    print(f"\ntraining complete — best val AUC: {best_auc:.4f}")
+    print(f"model saved → {MODEL_SAVE_PATH}")
 
 
 if __name__ == "__main__":
