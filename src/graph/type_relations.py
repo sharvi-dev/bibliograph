@@ -1,75 +1,50 @@
-"""Classify relations between co-occurring concept pairs using Gemini.
+"""Classify relations between co-occurring concept pairs using keyword heuristics.
 
-Writes data/processed/relations.jsonl incrementally — one record per unique pair.
-Resumes safely from the last completed pair on re-run.
-Deduplicates: same (A, B) seen in multiple paragraphs → one record with best confidence.
+No API calls — purely local string matching on the context paragraph.
+Output format is identical to the Gemini version so build_graph.py is unchanged.
 
-Free-tier limits (gemini-2.0-flash): 15 RPM, ~1M tokens/day.
-Rate limit: 12 RPM (5s between calls) for safety margin.
-MAX_EDGES_PER_BOOK = 300 keeps total calls ~2700, ~950K tokens/day.
+Confidence scores:
+  0.85  strong multi-word pattern match
+  0.70  single keyword match
+  0.55  fallback related_to
 """
 import hashlib
 import json
 import random
-import time
-from google import genai
-from google.genai import types
-from src.config import (
-    DATA_PROCESSED,
-    GEMINI_API_KEY,
-    GEMINI_MODEL,
-    RELATION_TYPES,
-    GUTENBERG_BOOKS,
-)
+from src.config import DATA_PROCESSED, RELATION_TYPES, GUTENBERG_BOOKS
 
 MAX_CONCEPTS_USED = 100
 MAX_CONCEPTS_PER_PARA = 6
-MAX_EDGES_PER_BOOK = 150   # 9 books * 150 = ~1350 calls at 5 RPM ≈ 4.5 hours
-RATE_LIMIT_DELAY = 13.0    # seconds between calls → stays under 5 RPM free tier
-MAX_RETRIES = 3
+MAX_EDGES_PER_BOOK = 300   # no API cost, so we can afford more edges
 
-ALL_LABELS = RELATION_TYPES + ["none"]
-
-RELATION_DEFINITIONS = "\n".join([
-    "causes       — A produces or contributes to B",
-    "contradicts  — A is incompatible with B (symmetric)",
-    "exemplifies  — A is an example/manifestation of B (narrower → broader)",
-    "extends      — A develops or expands B",
-    "is_a         — A is a subtype or instance of B",
-    "related_to   — meaningful connection without a more precise label (symmetric)",
-    "none         — the paragraph does not clearly support any relation",
-])
-
-SYSTEM_PROMPT = f"""You classify semantic relations between philosophical and intellectual concepts.
-
-Relation definitions:
-{RELATION_DEFINITIONS}
-
-Rules:
-- Respond with valid JSON only.
-- Set confidence between 0.0 and 1.0.
-- evidence: one short sentence quoting or paraphrasing the supporting context.
-- If unsure, use "related_to" rather than "none"."""
-
-USER_PROMPT = """Concept A: "{concept_a}"
-Concept B: "{concept_b}"
-Context: "{context}"
-
-Classify the relation from Concept A to Concept B."""
-
-RESPONSE_SCHEMA = {
-    "type": "OBJECT",
-    "properties": {
-        "relation":   {"type": "STRING", "enum": ALL_LABELS},
-        "confidence": {"type": "NUMBER"},
-        "evidence":   {"type": "STRING"},
-    },
-    "required": ["relation", "confidence", "evidence"],
-}
-
-
-def _build_client() -> genai.Client:
-    return genai.Client(api_key=GEMINI_API_KEY)
+# keyword patterns ordered by specificity; checked in sequence, first match wins
+_PATTERNS: list[tuple[str, list[str], float]] = [
+    ("causes", [
+        "causes", "leads to", "results in", "produces", "contributes to",
+        "gives rise to", "brings about", "promotes", "drives", "increases",
+        "decreases", "determines", "generates", "induces", "creates",
+    ], 0.70),
+    ("contradicts", [
+        "contradicts", "opposes", "conflicts with", "incompatible", "contrary to",
+        "negates", "denies", "inconsistent", "at odds", "in opposition",
+        "unlike", "against", "refutes", "disputes",
+    ], 0.70),
+    ("is_a", [
+        "is a type of", "is a form of", "is a kind of", "is a species of",
+        "is an instance of", "is a subset of", "is a class of",
+        "is a variety of", "is a mode of",
+    ], 0.85),
+    ("exemplifies", [
+        "for example", "for instance", "such as", "is an example of",
+        "illustrates", "demonstrates", "manifests", "is a case of",
+        "serves as an example", "embodies",
+    ], 0.70),
+    ("extends", [
+        "extends", "builds on", "builds upon", "expands", "elaborates",
+        "develops", "continues", "advances", "refines", "adds to",
+        "goes beyond", "further develops",
+    ], 0.70),
+]
 
 
 def _pair_key(a: str, b: str) -> str:
@@ -77,56 +52,26 @@ def _pair_key(a: str, b: str) -> str:
     return hashlib.md5("|".join(canonical).encode()).hexdigest()
 
 
-def classify_relation(
-    client: genai.Client,
-    concept_a: str,
-    concept_b: str,
-    context: str,
-) -> dict | None:
-    prompt = USER_PROMPT.format(
-        concept_a=concept_a,
-        concept_b=concept_b,
-        context=context[:250],
-    )
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            response = client.models.generate_content(
-                model=GEMINI_MODEL,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    system_instruction=SYSTEM_PROMPT,
-                    response_mime_type="application/json",
-                    response_schema=RESPONSE_SCHEMA,
-                    temperature=0.0,
-                ),
-            )
-            time.sleep(RATE_LIMIT_DELAY)
-            result = json.loads(response.text)
-            label = result.get("relation", "none").lower().strip()
-            if label not in ALL_LABELS:
-                label = "related_to"
-            return {
-                "relation":   label,
-                "confidence": float(result.get("confidence", 0.5)),
-                "evidence":   result.get("evidence", ""),
-            }
-        except Exception as exc:
-            msg = str(exc)
-            # honour the retry delay the API suggests when present
-            import re as _re
-            m = _re.search(r"retry in (\d+)", msg)
-            wait = int(m.group(1)) + 5 if m else RATE_LIMIT_DELAY * (2 ** attempt)
-            print(f"    [warn] attempt {attempt} failed, retrying in {wait:.0f}s")
-            time.sleep(wait)
-    return None
+def _classify_heuristic(concept_a: str, concept_b: str, context: str) -> dict:
+    ctx = context.lower()
+    for relation, keywords, confidence in _PATTERNS:
+        if any(kw in ctx for kw in keywords):
+            # find whichever keyword matched to use as evidence
+            matched = next(kw for kw in keywords if kw in ctx)
+            # extract a short snippet around the match for evidence
+            idx = ctx.find(matched)
+            snippet = context[max(0, idx - 40): idx + len(matched) + 40].strip()
+            return {"relation": relation, "confidence": confidence, "evidence": snippet}
+
+    return {
+        "relation": "related_to",
+        "confidence": 0.55,
+        "evidence": f"'{concept_a}' and '{concept_b}' co-occur in the same passage.",
+    }
 
 
 def extract_relations_for_book(
-    client: genai.Client,
-    book_id: int,
-    concepts: list[str],
-    text: str,
-    already_seen: set[str],
+    book_id: int, concepts: list[str], text: str, already_seen: set[str]
 ) -> list[dict]:
     concepts = concepts[:MAX_CONCEPTS_USED]
     concept_set = set(concepts)
@@ -152,9 +97,7 @@ def extract_relations_for_book(
                 key = _pair_key(a, b)
                 if key in already_seen:
                     continue
-                result = classify_relation(client, a, b, para)
-                if result is None or result["relation"] == "none":
-                    continue
+                result = _classify_heuristic(a, b, para)
                 if key not in best or result["confidence"] > best[key]["confidence"]:
                     best[key] = {
                         "source":     a,
@@ -188,28 +131,29 @@ def type_all_relations() -> None:
                 done_books.add(rec["book_id"])
         print(f"  resuming — {len(already_seen)} pairs already classified")
 
-    client = _build_client()
     total = len(GUTENBERG_BOOKS)
-
     with out_path.open("a", encoding="utf-8") as out_file:
         for i, book in enumerate(GUTENBERG_BOOKS, 1):
             bid = str(book["id"])
             if bid in done_books:
                 print(f"  [{i}/{total}] {book['title']} — already done, skipping")
                 continue
-
             concepts = all_concepts.get(bid, [])
             text = (DATA_PROCESSED / f"{book['id']}.txt").read_text(encoding="utf-8")
-            n_concepts = min(len(concepts), MAX_CONCEPTS_USED)
-            print(f"  [{i}/{total}] {book['title']} ({n_concepts} concepts, max {MAX_EDGES_PER_BOOK} edges)")
+            n = min(len(concepts), MAX_CONCEPTS_USED)
+            print(f"  [{i}/{total}] {book['title']} ({n} concepts)")
 
-            edges = extract_relations_for_book(client, book["id"], concepts, text, already_seen)
+            edges = extract_relations_for_book(book["id"], concepts, text, already_seen)
 
             for edge in edges:
                 out_file.write(json.dumps(edge) + "\n")
                 already_seen.add(_pair_key(edge["source"], edge["target"]))
             out_file.flush()
-            print(f"    → {len(edges)} edges written")
+
+            rel_counts = {}
+            for e in edges:
+                rel_counts[e["relation"]] = rel_counts.get(e["relation"], 0) + 1
+            print(f"    → {len(edges)} edges: {rel_counts}")
 
     print(f"\n  saved → {out_path}")
 

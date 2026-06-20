@@ -1,0 +1,8106 @@
+{
+  "concept": {
+    "0": {
+      "concept_id": "annual produce",
+      "canonical_name": "annual produce",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "1": {
+      "concept_id": "home market",
+      "canonical_name": "home market",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "2": {
+      "concept_id": "foreign trade",
+      "canonical_name": "foreign trade",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "3": {
+      "concept_id": "those metals",
+      "canonical_name": "those metals",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "4": {
+      "concept_id": "rude produce",
+      "canonical_name": "rude produce",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "5": {
+      "concept_id": "greater quantity",
+      "canonical_name": "greater quantity",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "6": {
+      "concept_id": "good deal",
+      "canonical_name": "good deal",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_republic"
+      ]
+    },
+    "7": {
+      "concept_id": "real value",
+      "canonical_name": "real value",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "8": {
+      "concept_id": "productive labour",
+      "canonical_name": "productive labour",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "9": {
+      "concept_id": "money price",
+      "canonical_name": "money price",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "10": {
+      "concept_id": "great part",
+      "canonical_name": "great part",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "11": {
+      "concept_id": "present times",
+      "canonical_name": "present times",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "12": {
+      "concept_id": "surplus produce",
+      "canonical_name": "surplus produce",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "13": {
+      "concept_id": "public revenue",
+      "canonical_name": "public revenue",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "14": {
+      "concept_id": "foreign goods",
+      "canonical_name": "foreign goods",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "15": {
+      "concept_id": "great body",
+      "canonical_name": "great body",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "16": {
+      "concept_id": "those countries",
+      "canonical_name": "those countries",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "17": {
+      "concept_id": "butcher\u2019s meat",
+      "canonical_name": "butcher\u2019s meat",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "18": {
+      "concept_id": "paper money",
+      "canonical_name": "paper money",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "19": {
+      "concept_id": "real price",
+      "canonical_name": "real price",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "20": {
+      "concept_id": "bank money",
+      "canonical_name": "bank money",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "21": {
+      "concept_id": "colony trade",
+      "canonical_name": "colony trade",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "22": {
+      "concept_id": "high price",
+      "canonical_name": "high price",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "23": {
+      "concept_id": "common people",
+      "canonical_name": "common people",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "24": {
+      "concept_id": "market price",
+      "canonical_name": "market price",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "25": {
+      "concept_id": "most cases",
+      "canonical_name": "most cases",
+      "source_books": [
+        "the_wealth_of_nations",
+        "on_the_origin_of_species"
+      ]
+    },
+    "26": {
+      "concept_id": "precious metals",
+      "canonical_name": "precious metals",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "27": {
+      "concept_id": "mother country",
+      "canonical_name": "mother country",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "28": {
+      "concept_id": "foreign countries",
+      "canonical_name": "foreign countries",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "29": {
+      "concept_id": "gold coin",
+      "canonical_name": "gold coin",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "30": {
+      "concept_id": "effectual demand",
+      "canonical_name": "effectual demand",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "31": {
+      "concept_id": "those times",
+      "canonical_name": "those times",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_prince"
+      ]
+    },
+    "32": {
+      "concept_id": "great number",
+      "canonical_name": "great number",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "33": {
+      "concept_id": "carrying trade",
+      "canonical_name": "carrying trade",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "34": {
+      "concept_id": "particular country",
+      "canonical_name": "particular country",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "35": {
+      "concept_id": "ordinary profits",
+      "canonical_name": "ordinary profits",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "36": {
+      "concept_id": "home consumption",
+      "canonical_name": "home consumption",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "37": {
+      "concept_id": "own interest",
+      "canonical_name": "own interest",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_republic"
+      ]
+    },
+    "38": {
+      "concept_id": "long time",
+      "canonical_name": "long time",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "39": {
+      "concept_id": "certain quantity",
+      "canonical_name": "certain quantity",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "40": {
+      "concept_id": "present money",
+      "canonical_name": "present money",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "41": {
+      "concept_id": "domestic industry",
+      "canonical_name": "domestic industry",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "42": {
+      "concept_id": "foreign commerce",
+      "canonical_name": "foreign commerce",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "43": {
+      "concept_id": "great measure",
+      "canonical_name": "great measure",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "44": {
+      "concept_id": "circulating capital",
+      "canonical_name": "circulating capital",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "45": {
+      "concept_id": "land tax",
+      "canonical_name": "land tax",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "46": {
+      "concept_id": "real wealth",
+      "canonical_name": "real wealth",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "47": {
+      "concept_id": "whole value",
+      "canonical_name": "whole value",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "48": {
+      "concept_id": "many people",
+      "canonical_name": "many people",
+      "source_books": [
+        "the_wealth_of_nations",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "49": {
+      "concept_id": "far greater part",
+      "canonical_name": "far greater part",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "50": {
+      "concept_id": "whole expense",
+      "canonical_name": "whole expense",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "51": {
+      "concept_id": "average price",
+      "canonical_name": "average price",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "52": {
+      "concept_id": "east indies",
+      "canonical_name": "east indies",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "53": {
+      "concept_id": "own accord",
+      "canonical_name": "own accord",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_art_of_war"
+      ]
+    },
+    "54": {
+      "concept_id": "natural price",
+      "canonical_name": "natural price",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "55": {
+      "concept_id": "greater number",
+      "canonical_name": "greater number",
+      "source_books": [
+        "the_wealth_of_nations",
+        "on_the_origin_of_species",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "56": {
+      "concept_id": "those duties",
+      "canonical_name": "those duties",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "57": {
+      "concept_id": "what manner",
+      "canonical_name": "what manner",
+      "source_books": [
+        "the_wealth_of_nations",
+        "meditations",
+        "the_republic",
+        "leviathan"
+      ]
+    },
+    "58": {
+      "concept_id": "whole produce",
+      "canonical_name": "whole produce",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "59": {
+      "concept_id": "inferior ranks",
+      "canonical_name": "inferior ranks",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "60": {
+      "concept_id": "considerable part",
+      "canonical_name": "considerable part",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "61": {
+      "concept_id": "standing army",
+      "canonical_name": "standing army",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "62": {
+      "concept_id": "whole society",
+      "canonical_name": "whole society",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "63": {
+      "concept_id": "silver coin",
+      "canonical_name": "silver coin",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "64": {
+      "concept_id": "great deal",
+      "canonical_name": "great deal",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_republic",
+        "the_art_of_war"
+      ]
+    },
+    "65": {
+      "concept_id": "whole quantity",
+      "canonical_name": "whole quantity",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "66": {
+      "concept_id": "whole capital",
+      "canonical_name": "whole capital",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "67": {
+      "concept_id": "other country",
+      "canonical_name": "other country",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "68": {
+      "concept_id": "mercantile system",
+      "canonical_name": "mercantile system",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "69": {
+      "concept_id": "equal quantity",
+      "canonical_name": "equal quantity",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "70": {
+      "concept_id": "certain number",
+      "canonical_name": "certain number",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "71": {
+      "concept_id": "neat revenue",
+      "canonical_name": "neat revenue",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "72": {
+      "concept_id": "productive powers",
+      "canonical_name": "productive powers",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "73": {
+      "concept_id": "different employments",
+      "canonical_name": "different employments",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "74": {
+      "concept_id": "smaller quantity",
+      "canonical_name": "smaller quantity",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "75": {
+      "concept_id": "considerable time",
+      "canonical_name": "considerable time",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "76": {
+      "concept_id": "late war",
+      "canonical_name": "late war",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "77": {
+      "concept_id": "private people",
+      "canonical_name": "private people",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "78": {
+      "concept_id": "other commodity",
+      "canonical_name": "other commodity",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "79": {
+      "concept_id": "pound weight",
+      "canonical_name": "pound weight",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "80": {
+      "concept_id": "exchangeable value",
+      "canonical_name": "exchangeable value",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "81": {
+      "concept_id": "mint price",
+      "canonical_name": "mint price",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "82": {
+      "concept_id": "present state",
+      "canonical_name": "present state",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "83": {
+      "concept_id": "fixed capital",
+      "canonical_name": "fixed capital",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "84": {
+      "concept_id": "occasional demands",
+      "canonical_name": "occasional demands",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "85": {
+      "concept_id": "memoires concernant les droits",
+      "canonical_name": "memoires concernant les droits",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "86": {
+      "concept_id": "final payment",
+      "canonical_name": "final payment",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "87": {
+      "concept_id": "own labour",
+      "canonical_name": "own labour",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "88": {
+      "concept_id": "those goods",
+      "canonical_name": "those goods",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "89": {
+      "concept_id": "own country",
+      "canonical_name": "own country",
+      "source_books": [
+        "the_wealth_of_nations",
+        "on_the_origin_of_species"
+      ]
+    },
+    "90": {
+      "concept_id": "exclusive privilege",
+      "canonical_name": "exclusive privilege",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "91": {
+      "concept_id": "human industry",
+      "canonical_name": "human industry",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "92": {
+      "concept_id": "indostan",
+      "canonical_name": "indostan",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "93": {
+      "concept_id": "high duties",
+      "canonical_name": "high duties",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "94": {
+      "concept_id": "chapter ii",
+      "canonical_name": "chapter ii",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_prince",
+        "the_art_of_war"
+      ]
+    },
+    "95": {
+      "concept_id": "political economy",
+      "canonical_name": "political economy",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "96": {
+      "concept_id": "many cases",
+      "canonical_name": "many cases",
+      "source_books": [
+        "the_wealth_of_nations",
+        "on_the_origin_of_species"
+      ]
+    },
+    "97": {
+      "concept_id": "one case",
+      "canonical_name": "one case",
+      "source_books": [
+        "the_wealth_of_nations",
+        "on_the_origin_of_species",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "98": {
+      "concept_id": "ancient times",
+      "canonical_name": "ancient times",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_republic"
+      ]
+    },
+    "99": {
+      "concept_id": "immediate consumption",
+      "canonical_name": "immediate consumption",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "100": {
+      "concept_id": "consumable goods",
+      "canonical_name": "consumable goods",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "101": {
+      "concept_id": "executive power",
+      "canonical_name": "executive power",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "102": {
+      "concept_id": "roman empire",
+      "canonical_name": "roman empire",
+      "source_books": [
+        "the_wealth_of_nations",
+        "meditations"
+      ]
+    },
+    "103": {
+      "concept_id": "actual state",
+      "canonical_name": "actual state",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "104": {
+      "concept_id": "capital stock",
+      "canonical_name": "capital stock",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "105": {
+      "concept_id": "much greater quantity",
+      "canonical_name": "much greater quantity",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "106": {
+      "concept_id": "one country",
+      "canonical_name": "one country",
+      "source_books": [
+        "the_wealth_of_nations",
+        "on_the_origin_of_species"
+      ]
+    },
+    "107": {
+      "concept_id": "country gentlemen",
+      "canonical_name": "country gentlemen",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "108": {
+      "concept_id": "other person",
+      "canonical_name": "other person",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "109": {
+      "concept_id": "exclusive company",
+      "canonical_name": "exclusive company",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "110": {
+      "concept_id": "particular branch",
+      "canonical_name": "particular branch",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "111": {
+      "concept_id": "household furniture",
+      "canonical_name": "household furniture",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "112": {
+      "concept_id": "equal quantities",
+      "canonical_name": "equal quantities",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "113": {
+      "concept_id": "equal value",
+      "canonical_name": "equal value",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "114": {
+      "concept_id": "gold and silver money",
+      "canonical_name": "gold and silver money",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "115": {
+      "concept_id": "one part",
+      "canonical_name": "one part",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_republic",
+        "on_the_origin_of_species"
+      ]
+    },
+    "116": {
+      "concept_id": "common labour",
+      "canonical_name": "common labour",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "117": {
+      "concept_id": "corn merchant",
+      "canonical_name": "corn merchant",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "118": {
+      "concept_id": "european market",
+      "canonical_name": "european market",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "119": {
+      "concept_id": "civil government",
+      "canonical_name": "civil government",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "120": {
+      "concept_id": "manufactured produce",
+      "canonical_name": "manufactured produce",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "121": {
+      "concept_id": "home trade",
+      "canonical_name": "home trade",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "122": {
+      "concept_id": "ancient greece",
+      "canonical_name": "ancient greece",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "123": {
+      "concept_id": "more labour",
+      "canonical_name": "more labour",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "124": {
+      "concept_id": "one man",
+      "canonical_name": "one man",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_republic",
+        "leviathan",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "125": {
+      "concept_id": "great quantity",
+      "canonical_name": "great quantity",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "126": {
+      "concept_id": "ordinary rate",
+      "canonical_name": "ordinary rate",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "127": {
+      "concept_id": "silver mines",
+      "canonical_name": "silver mines",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "128": {
+      "concept_id": "ready money",
+      "canonical_name": "ready money",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "129": {
+      "concept_id": "productive labourers",
+      "canonical_name": "productive labourers",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "130": {
+      "concept_id": "geo",
+      "canonical_name": "geo",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "131": {
+      "concept_id": "chapter iv",
+      "canonical_name": "chapter iv",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_art_of_war"
+      ]
+    },
+    "132": {
+      "concept_id": "greater share",
+      "canonical_name": "greater share",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "133": {
+      "concept_id": "own consumption",
+      "canonical_name": "own consumption",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "134": {
+      "concept_id": "considerable degree",
+      "canonical_name": "considerable degree",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "135": {
+      "concept_id": "particular commodity",
+      "canonical_name": "particular commodity",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "136": {
+      "concept_id": "nominal price",
+      "canonical_name": "nominal price",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "137": {
+      "concept_id": "one way",
+      "canonical_name": "one way",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_prince"
+      ]
+    },
+    "138": {
+      "concept_id": "whole annual produce",
+      "canonical_name": "whole annual produce",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "139": {
+      "concept_id": "other way",
+      "canonical_name": "other way",
+      "source_books": [
+        "the_wealth_of_nations",
+        "the_republic"
+      ]
+    },
+    "140": {
+      "concept_id": "most occasions",
+      "canonical_name": "most occasions",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "141": {
+      "concept_id": "foreign nations",
+      "canonical_name": "foreign nations",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "142": {
+      "concept_id": "those ancient times",
+      "canonical_name": "those ancient times",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "143": {
+      "concept_id": "ordinary price",
+      "canonical_name": "ordinary price",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "144": {
+      "concept_id": "those commodities",
+      "canonical_name": "those commodities",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "145": {
+      "concept_id": "english colonies",
+      "canonical_name": "english colonies",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "146": {
+      "concept_id": "annual consumption",
+      "canonical_name": "annual consumption",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "147": {
+      "concept_id": "the different branches",
+      "canonical_name": "the different branches",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "148": {
+      "concept_id": "fed",
+      "canonical_name": "fed",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "149": {
+      "concept_id": "particular time",
+      "canonical_name": "particular time",
+      "source_books": [
+        "the_wealth_of_nations"
+      ]
+    },
+    "150": {
+      "concept_id": "true nature",
+      "canonical_name": "true nature",
+      "source_books": [
+        "meditations",
+        "the_republic"
+      ]
+    },
+    "151": {
+      "concept_id": "common good",
+      "canonical_name": "common good",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "152": {
+      "concept_id": "other things",
+      "canonical_name": "other things",
+      "source_books": [
+        "meditations",
+        "the_republic"
+      ]
+    },
+    "153": {
+      "concept_id": "whole world",
+      "canonical_name": "whole world",
+      "source_books": [
+        "meditations",
+        "on_the_origin_of_species",
+        "the_prince"
+      ]
+    },
+    "154": {
+      "concept_id": "divine providence",
+      "canonical_name": "divine providence",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "155": {
+      "concept_id": "common nature",
+      "canonical_name": "common nature",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "156": {
+      "concept_id": "many things",
+      "canonical_name": "many things",
+      "source_books": [
+        "meditations",
+        "the_republic",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "157": {
+      "concept_id": "reasonable creatures",
+      "canonical_name": "reasonable creatures",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "158": {
+      "concept_id": "such thing",
+      "canonical_name": "such thing",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "159": {
+      "concept_id": "very deed",
+      "canonical_name": "very deed",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "160": {
+      "concept_id": "worldly things",
+      "canonical_name": "worldly things",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "161": {
+      "concept_id": "own nature",
+      "canonical_name": "own nature",
+      "source_books": [
+        "meditations",
+        "the_republic",
+        "leviathan"
+      ]
+    },
+    "162": {
+      "concept_id": "new comedy",
+      "canonical_name": "new comedy",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "163": {
+      "concept_id": "ad m. caes",
+      "canonical_name": "ad m. caes",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "164": {
+      "concept_id": "verus",
+      "canonical_name": "verus",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "165": {
+      "concept_id": "natural constitution",
+      "canonical_name": "natural constitution",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "166": {
+      "concept_id": "ordinary course",
+      "canonical_name": "ordinary course",
+      "source_books": [
+        "meditations",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "167": {
+      "concept_id": "other thing",
+      "canonical_name": "other thing",
+      "source_books": [
+        "meditations",
+        "leviathan"
+      ]
+    },
+    "168": {
+      "concept_id": "what things",
+      "canonical_name": "what things",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "169": {
+      "concept_id": "one thing",
+      "canonical_name": "one thing",
+      "source_books": [
+        "meditations",
+        "the_republic",
+        "leviathan",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "170": {
+      "concept_id": "man's life",
+      "canonical_name": "man's life",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "171": {
+      "concept_id": "such things",
+      "canonical_name": "such things",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "172": {
+      "concept_id": "cato",
+      "canonical_name": "cato",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "173": {
+      "concept_id": "a thing",
+      "canonical_name": "a thing",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "174": {
+      "concept_id": "grievous thing",
+      "canonical_name": "grievous thing",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "175": {
+      "concept_id": "present estate",
+      "canonical_name": "present estate",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "176": {
+      "concept_id": "even they",
+      "canonical_name": "even they",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "177": {
+      "concept_id": "thundering legion",
+      "canonical_name": "thundering legion",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "178": {
+      "concept_id": "mortal life",
+      "canonical_name": "mortal life",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "179": {
+      "concept_id": "epictetus",
+      "canonical_name": "epictetus",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "180": {
+      "concept_id": "one kind",
+      "canonical_name": "one kind",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "181": {
+      "concept_id": "only which",
+      "canonical_name": "only which",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "182": {
+      "concept_id": "own power",
+      "canonical_name": "own power",
+      "source_books": [
+        "meditations",
+        "leviathan"
+      ]
+    },
+    "183": {
+      "concept_id": "good man",
+      "canonical_name": "good man",
+      "source_books": [
+        "meditations",
+        "the_republic"
+      ]
+    },
+    "184": {
+      "concept_id": "how many things",
+      "canonical_name": "how many things",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "185": {
+      "concept_id": "those parts",
+      "canonical_name": "those parts",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "186": {
+      "concept_id": "first book",
+      "canonical_name": "first book",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "187": {
+      "concept_id": "most part",
+      "canonical_name": "most part",
+      "source_books": [
+        "meditations",
+        "the_republic",
+        "leviathan"
+      ]
+    },
+    "188": {
+      "concept_id": "natural affection",
+      "canonical_name": "natural affection",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "189": {
+      "concept_id": "another kind",
+      "canonical_name": "another kind",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "190": {
+      "concept_id": "proper constitution",
+      "canonical_name": "proper constitution",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "191": {
+      "concept_id": "these words",
+      "canonical_name": "these words",
+      "source_books": [
+        "meditations",
+        "leviathan",
+        "an_enquiry_concerning_human_understanding",
+        "thus_spoke_zarathustra",
+        "the_art_of_war"
+      ]
+    },
+    "192": {
+      "concept_id": "true worth",
+      "canonical_name": "true worth",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "193": {
+      "concept_id": "very truth",
+      "canonical_name": "very truth",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "194": {
+      "concept_id": "adrianus",
+      "canonical_name": "adrianus",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "195": {
+      "concept_id": "reasonable faculty",
+      "canonical_name": "reasonable faculty",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "196": {
+      "concept_id": "those men",
+      "canonical_name": "those men",
+      "source_books": [
+        "meditations",
+        "the_prince",
+        "leviathan"
+      ]
+    },
+    "197": {
+      "concept_id": "only thing",
+      "canonical_name": "only thing",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "198": {
+      "concept_id": "whole life",
+      "canonical_name": "whole life",
+      "source_books": [
+        "meditations",
+        "the_republic"
+      ]
+    },
+    "199": {
+      "concept_id": "stoic philosopher",
+      "canonical_name": "stoic philosopher",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "200": {
+      "concept_id": "zeno",
+      "canonical_name": "zeno",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "201": {
+      "concept_id": "wise man",
+      "canonical_name": "wise man",
+      "source_books": [
+        "meditations",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "202": {
+      "concept_id": "new thing",
+      "canonical_name": "new thing",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "203": {
+      "concept_id": "most men",
+      "canonical_name": "most men",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "204": {
+      "concept_id": "true liberty",
+      "canonical_name": "true liberty",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "205": {
+      "concept_id": "these two things",
+      "canonical_name": "these two things",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "206": {
+      "concept_id": "true knowledge",
+      "canonical_name": "true knowledge",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "207": {
+      "concept_id": "wild beasts",
+      "canonical_name": "wild beasts",
+      "source_books": [
+        "meditations",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "208": {
+      "concept_id": "heraclitus",
+      "canonical_name": "heraclitus",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "209": {
+      "concept_id": "nero",
+      "canonical_name": "nero",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "210": {
+      "concept_id": "very little while",
+      "canonical_name": "very little while",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "211": {
+      "concept_id": "common substance",
+      "canonical_name": "common substance",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "212": {
+      "concept_id": "good turn",
+      "canonical_name": "good turn",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "213": {
+      "concept_id": "a one",
+      "canonical_name": "a one",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "214": {
+      "concept_id": "rational essence",
+      "canonical_name": "rational essence",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "215": {
+      "concept_id": "middle things",
+      "canonical_name": "middle things",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "216": {
+      "concept_id": "thine eyes",
+      "canonical_name": "thine eyes",
+      "source_books": [
+        "meditations",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "217": {
+      "concept_id": "unreasonable creatures",
+      "canonical_name": "unreasonable creatures",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "218": {
+      "concept_id": "whole court",
+      "canonical_name": "whole court",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "219": {
+      "concept_id": "own kind",
+      "canonical_name": "own kind",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "220": {
+      "concept_id": "thine own nature",
+      "canonical_name": "thine own nature",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "221": {
+      "concept_id": "cithaeron",
+      "canonical_name": "cithaeron",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "222": {
+      "concept_id": "pronto",
+      "canonical_name": "pronto",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "223": {
+      "concept_id": "ad verum",
+      "canonical_name": "ad verum",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "224": {
+      "concept_id": "4th century b.c",
+      "canonical_name": "4th century b.c",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "225": {
+      "concept_id": "eleventh book",
+      "canonical_name": "eleventh book",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "226": {
+      "concept_id": "stoic system",
+      "canonical_name": "stoic system",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "227": {
+      "concept_id": "own soul",
+      "canonical_name": "own soul",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "228": {
+      "concept_id": "happy lot",
+      "canonical_name": "happy lot",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "229": {
+      "concept_id": "good actions",
+      "canonical_name": "good actions",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "230": {
+      "concept_id": "ancient customs",
+      "canonical_name": "ancient customs",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "231": {
+      "concept_id": "present possession",
+      "canonical_name": "present possession",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "232": {
+      "concept_id": "a life",
+      "canonical_name": "a life",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "233": {
+      "concept_id": "particular nature",
+      "canonical_name": "particular nature",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "234": {
+      "concept_id": "those sins",
+      "canonical_name": "those sins",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "235": {
+      "concept_id": "general age",
+      "canonical_name": "general age",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "236": {
+      "concept_id": "great moment",
+      "canonical_name": "great moment",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "237": {
+      "concept_id": "certain end",
+      "canonical_name": "certain end",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "238": {
+      "concept_id": "pompeius",
+      "canonical_name": "pompeius",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "239": {
+      "concept_id": "democritus",
+      "canonical_name": "democritus",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "240": {
+      "concept_id": "whole heart",
+      "canonical_name": "whole heart",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "241": {
+      "concept_id": "which thou",
+      "canonical_name": "which thou",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "242": {
+      "concept_id": "proper good",
+      "canonical_name": "proper good",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "243": {
+      "concept_id": "rational part",
+      "canonical_name": "rational part",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "244": {
+      "concept_id": "rational creature",
+      "canonical_name": "rational creature",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "245": {
+      "concept_id": "true magnanimity",
+      "canonical_name": "true magnanimity",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "246": {
+      "concept_id": "whole earth",
+      "canonical_name": "whole earth",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "247": {
+      "concept_id": "one point",
+      "canonical_name": "one point",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "248": {
+      "concept_id": "dead bodies",
+      "canonical_name": "dead bodies",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "249": {
+      "concept_id": "present time",
+      "canonical_name": "present time",
+      "source_books": [
+        "meditations",
+        "on_the_origin_of_species"
+      ]
+    },
+    "250": {
+      "concept_id": "certain order",
+      "canonical_name": "certain order",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "251": {
+      "concept_id": "what art",
+      "canonical_name": "what art",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "252": {
+      "concept_id": "his actions",
+      "canonical_name": "his actions",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "253": {
+      "concept_id": "wicked man",
+      "canonical_name": "wicked man",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "254": {
+      "concept_id": "great matter",
+      "canonical_name": "great matter",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "255": {
+      "concept_id": "very thing",
+      "canonical_name": "very thing",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "256": {
+      "concept_id": "reasonable creature",
+      "canonical_name": "reasonable creature",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "257": {
+      "concept_id": "necessary consequence",
+      "canonical_name": "necessary consequence",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "258": {
+      "concept_id": "good use",
+      "canonical_name": "good use",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "259": {
+      "concept_id": "such occasion",
+      "canonical_name": "such occasion",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "260": {
+      "concept_id": "true simplicity",
+      "canonical_name": "true simplicity",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "261": {
+      "concept_id": "saith he",
+      "canonical_name": "saith he",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "262": {
+      "concept_id": "thine anger",
+      "canonical_name": "thine anger",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "263": {
+      "concept_id": "o man",
+      "canonical_name": "o man",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "264": {
+      "concept_id": "whole body",
+      "canonical_name": "whole body",
+      "source_books": [
+        "meditations",
+        "the_republic"
+      ]
+    },
+    "265": {
+      "concept_id": "another place",
+      "canonical_name": "another place",
+      "source_books": [
+        "meditations",
+        "leviathan"
+      ]
+    },
+    "266": {
+      "concept_id": "senate",
+      "canonical_name": "senate",
+      "source_books": [
+        "meditations",
+        "the_prince",
+        "leviathan"
+      ]
+    },
+    "267": {
+      "concept_id": "particular object",
+      "canonical_name": "particular object",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "268": {
+      "concept_id": "certain period",
+      "canonical_name": "certain period",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "269": {
+      "concept_id": "phocion",
+      "canonical_name": "phocion",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "270": {
+      "concept_id": "whose reason",
+      "canonical_name": "whose reason",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "271": {
+      "concept_id": "ad m. caes ii",
+      "canonical_name": "ad m. caes ii",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "272": {
+      "concept_id": "fronto",
+      "canonical_name": "fronto",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "273": {
+      "concept_id": "most distinguished consul",
+      "canonical_name": "most distinguished consul",
+      "source_books": [
+        "meditations"
+      ]
+    },
+    "274": {
+      "concept_id": "apollo",
+      "canonical_name": "apollo",
+      "source_books": [
+        "meditations",
+        "the_republic"
+      ]
+    },
+    "275": {
+      "concept_id": "state",
+      "canonical_name": "state",
+      "source_books": [
+        "the_republic",
+        "leviathan",
+        "the_art_of_war"
+      ]
+    },
+    "276": {
+      "concept_id": "glaucon",
+      "canonical_name": "glaucon",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "277": {
+      "concept_id": "just man",
+      "canonical_name": "just man",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "278": {
+      "concept_id": "adeimantus",
+      "canonical_name": "adeimantus",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "279": {
+      "concept_id": "human life",
+      "canonical_name": "human life",
+      "source_books": [
+        "the_republic",
+        "an_enquiry_concerning_human_understanding",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "280": {
+      "concept_id": "cephalus",
+      "canonical_name": "cephalus",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "281": {
+      "concept_id": "mathematical sciences",
+      "canonical_name": "mathematical sciences",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "282": {
+      "concept_id": "modern times",
+      "canonical_name": "modern times",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "283": {
+      "concept_id": "first place",
+      "canonical_name": "first place",
+      "source_books": [
+        "the_republic",
+        "the_prince"
+      ]
+    },
+    "284": {
+      "concept_id": "human nature",
+      "canonical_name": "human nature",
+      "source_books": [
+        "the_republic",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "285": {
+      "concept_id": "a state",
+      "canonical_name": "a state",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "286": {
+      "concept_id": "thrasymachus",
+      "canonical_name": "thrasymachus",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "287": {
+      "concept_id": "pythagorean",
+      "canonical_name": "pythagorean",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "288": {
+      "concept_id": "own business",
+      "canonical_name": "own business",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "289": {
+      "concept_id": "what sort",
+      "canonical_name": "what sort",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "290": {
+      "concept_id": "whole state",
+      "canonical_name": "whole state",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "291": {
+      "concept_id": "ideal state",
+      "canonical_name": "ideal state",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "292": {
+      "concept_id": "perfect state",
+      "canonical_name": "perfect state",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "293": {
+      "concept_id": "own age",
+      "canonical_name": "own age",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "294": {
+      "concept_id": "human mind",
+      "canonical_name": "human mind",
+      "source_books": [
+        "the_republic",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "295": {
+      "concept_id": "young man",
+      "canonical_name": "young man",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "296": {
+      "concept_id": "what way",
+      "canonical_name": "what way",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "297": {
+      "concept_id": "true being",
+      "canonical_name": "true being",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "298": {
+      "concept_id": "an one",
+      "canonical_name": "an one",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "299": {
+      "concept_id": "three classes",
+      "canonical_name": "three classes",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "300": {
+      "concept_id": "two kinds",
+      "canonical_name": "two kinds",
+      "source_books": [
+        "the_republic",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "301": {
+      "concept_id": "well-ordered state",
+      "canonical_name": "well-ordered state",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "302": {
+      "concept_id": "lachesis",
+      "canonical_name": "lachesis",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "303": {
+      "concept_id": "sophist",
+      "canonical_name": "sophist",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "304": {
+      "concept_id": "justice",
+      "canonical_name": "justice",
+      "source_books": [
+        "the_republic",
+        "leviathan"
+      ]
+    },
+    "305": {
+      "concept_id": "old age",
+      "canonical_name": "old age",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "306": {
+      "concept_id": "good men",
+      "canonical_name": "good men",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "307": {
+      "concept_id": "unjust man",
+      "canonical_name": "unjust man",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "308": {
+      "concept_id": "different natures",
+      "canonical_name": "different natures",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "309": {
+      "concept_id": "asclepius",
+      "canonical_name": "asclepius",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "310": {
+      "concept_id": "human race",
+      "canonical_name": "human race",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "311": {
+      "concept_id": "tyrannical man",
+      "canonical_name": "tyrannical man",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "312": {
+      "concept_id": "book iv",
+      "canonical_name": "book iv",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "313": {
+      "concept_id": "philebus",
+      "canonical_name": "philebus",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "314": {
+      "concept_id": "solon",
+      "canonical_name": "solon",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "315": {
+      "concept_id": "another question",
+      "canonical_name": "another question",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "316": {
+      "concept_id": "first principle",
+      "canonical_name": "first principle",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "317": {
+      "concept_id": "rich man",
+      "canonical_name": "rich man",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "318": {
+      "concept_id": "whole soul",
+      "canonical_name": "whole soul",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "319": {
+      "concept_id": "one class",
+      "canonical_name": "one class",
+      "source_books": [
+        "the_republic",
+        "on_the_origin_of_species"
+      ]
+    },
+    "320": {
+      "concept_id": "first sight",
+      "canonical_name": "first sight",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "321": {
+      "concept_id": "young men",
+      "canonical_name": "young men",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "322": {
+      "concept_id": "common meals",
+      "canonical_name": "common meals",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "323": {
+      "concept_id": "hesiod",
+      "canonical_name": "hesiod",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "324": {
+      "concept_id": "intellectual world",
+      "canonical_name": "intellectual world",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "325": {
+      "concept_id": "another point",
+      "canonical_name": "another point",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "326": {
+      "concept_id": "atropos",
+      "canonical_name": "atropos",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "327": {
+      "concept_id": "these qualities",
+      "canonical_name": "these qualities",
+      "source_books": [
+        "the_republic",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "328": {
+      "concept_id": "symposium",
+      "canonical_name": "symposium",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "329": {
+      "concept_id": "socrates",
+      "canonical_name": "socrates",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "330": {
+      "concept_id": "cicero",
+      "canonical_name": "cicero",
+      "source_books": [
+        "the_republic",
+        "leviathan"
+      ]
+    },
+    "331": {
+      "concept_id": "church",
+      "canonical_name": "church",
+      "source_books": [
+        "the_republic",
+        "the_prince",
+        "leviathan"
+      ]
+    },
+    "332": {
+      "concept_id": "common sense",
+      "canonical_name": "common sense",
+      "source_books": [
+        "the_republic",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "333": {
+      "concept_id": "sixth book",
+      "canonical_name": "sixth book",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "334": {
+      "concept_id": "better part",
+      "canonical_name": "better part",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "335": {
+      "concept_id": "modern philosophy",
+      "canonical_name": "modern philosophy",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "336": {
+      "concept_id": "first principles",
+      "canonical_name": "first principles",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "337": {
+      "concept_id": "natural order",
+      "canonical_name": "natural order",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "338": {
+      "concept_id": "greatest happiness",
+      "canonical_name": "greatest happiness",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "339": {
+      "concept_id": "these reasons",
+      "canonical_name": "these reasons",
+      "source_books": [
+        "the_republic",
+        "the_prince"
+      ]
+    },
+    "340": {
+      "concept_id": "absolute truth",
+      "canonical_name": "absolute truth",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "341": {
+      "concept_id": "upper world",
+      "canonical_name": "upper world",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "342": {
+      "concept_id": "another man",
+      "canonical_name": "another man",
+      "source_books": [
+        "the_republic",
+        "leviathan"
+      ]
+    },
+    "343": {
+      "concept_id": "pythagorean triangle",
+      "canonical_name": "pythagorean triangle",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "344": {
+      "concept_id": "absolute beauty",
+      "canonical_name": "absolute beauty",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "345": {
+      "concept_id": "laws",
+      "canonical_name": "laws",
+      "source_books": [
+        "the_republic",
+        "leviathan"
+      ]
+    },
+    "346": {
+      "concept_id": "third book",
+      "canonical_name": "third book",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "347": {
+      "concept_id": "tenth book",
+      "canonical_name": "tenth book",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "348": {
+      "concept_id": "individual soul",
+      "canonical_name": "individual soul",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "349": {
+      "concept_id": "ariston",
+      "canonical_name": "ariston",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "350": {
+      "concept_id": "second book",
+      "canonical_name": "second book",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "351": {
+      "concept_id": "plato",
+      "canonical_name": "plato",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "352": {
+      "concept_id": "book vii",
+      "canonical_name": "book vii",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "353": {
+      "concept_id": "book vi",
+      "canonical_name": "book vi",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "354": {
+      "concept_id": "first time",
+      "canonical_name": "first time",
+      "source_books": [
+        "the_republic",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "355": {
+      "concept_id": "hephaestus",
+      "canonical_name": "hephaestus",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "356": {
+      "concept_id": "next place",
+      "canonical_name": "next place",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "357": {
+      "concept_id": "lydian",
+      "canonical_name": "lydian",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "358": {
+      "concept_id": "wild beast",
+      "canonical_name": "wild beast",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "359": {
+      "concept_id": "own person",
+      "canonical_name": "own person",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "360": {
+      "concept_id": "highest degree",
+      "canonical_name": "highest degree",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "361": {
+      "concept_id": "own work",
+      "canonical_name": "own work",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "362": {
+      "concept_id": "whole city",
+      "canonical_name": "whole city",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "363": {
+      "concept_id": "another class",
+      "canonical_name": "another class",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "364": {
+      "concept_id": "three parts",
+      "canonical_name": "three parts",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "365": {
+      "concept_id": "three principles",
+      "canonical_name": "three principles",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "366": {
+      "concept_id": "one woman",
+      "canonical_name": "one woman",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "367": {
+      "concept_id": "human beings",
+      "canonical_name": "human beings",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "368": {
+      "concept_id": "right hand",
+      "canonical_name": "right hand",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "369": {
+      "concept_id": "public opinion",
+      "canonical_name": "public opinion",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "370": {
+      "concept_id": "bodily exercise",
+      "canonical_name": "bodily exercise",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "371": {
+      "concept_id": "third class",
+      "canonical_name": "third class",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "372": {
+      "concept_id": "famous men",
+      "canonical_name": "famous men",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "373": {
+      "concept_id": "christian church",
+      "canonical_name": "christian church",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "374": {
+      "concept_id": "rich men",
+      "canonical_name": "rich men",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "375": {
+      "concept_id": "dear friend",
+      "canonical_name": "dear friend",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "376": {
+      "concept_id": "best way",
+      "canonical_name": "best way",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "377": {
+      "concept_id": "book x",
+      "canonical_name": "book x",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "378": {
+      "concept_id": "athene",
+      "canonical_name": "athene",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "379": {
+      "concept_id": "future life",
+      "canonical_name": "future life",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "380": {
+      "concept_id": "book ii",
+      "canonical_name": "book ii",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "381": {
+      "concept_id": "old man",
+      "canonical_name": "old man",
+      "source_books": [
+        "the_republic",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "382": {
+      "concept_id": "true pilot",
+      "canonical_name": "true pilot",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "383": {
+      "concept_id": "other man",
+      "canonical_name": "other man",
+      "source_books": [
+        "the_republic",
+        "leviathan"
+      ]
+    },
+    "384": {
+      "concept_id": "own interests",
+      "canonical_name": "own interests",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "385": {
+      "concept_id": "the arts",
+      "canonical_name": "the arts",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "386": {
+      "concept_id": "three kinds",
+      "canonical_name": "three kinds",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "387": {
+      "concept_id": "true love",
+      "canonical_name": "true love",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "388": {
+      "concept_id": "warrior athletes",
+      "canonical_name": "warrior athletes",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "389": {
+      "concept_id": "own mind",
+      "canonical_name": "own mind",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "390": {
+      "concept_id": "lower classes",
+      "canonical_name": "lower classes",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "391": {
+      "concept_id": "just state",
+      "canonical_name": "just state",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "392": {
+      "concept_id": "ideal polity",
+      "canonical_name": "ideal polity",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "393": {
+      "concept_id": "absolute justice",
+      "canonical_name": "absolute justice",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "394": {
+      "concept_id": "true philosopher",
+      "canonical_name": "true philosopher",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "395": {
+      "concept_id": "single person",
+      "canonical_name": "single person",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "396": {
+      "concept_id": "visible world",
+      "canonical_name": "visible world",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "397": {
+      "concept_id": "own life",
+      "canonical_name": "own life",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "398": {
+      "concept_id": "four terms",
+      "canonical_name": "four terms",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "399": {
+      "concept_id": "these sciences",
+      "canonical_name": "these sciences",
+      "source_books": [
+        "the_republic",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "400": {
+      "concept_id": "these studies",
+      "canonical_name": "these studies",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "401": {
+      "concept_id": "early education",
+      "canonical_name": "early education",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "402": {
+      "concept_id": "great men",
+      "canonical_name": "great men",
+      "source_books": [
+        "the_republic",
+        "the_prince",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "403": {
+      "concept_id": "human things",
+      "canonical_name": "human things",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "404": {
+      "concept_id": "democratic man",
+      "canonical_name": "democratic man",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "405": {
+      "concept_id": "unnecessary pleasures",
+      "canonical_name": "unnecessary pleasures",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "406": {
+      "concept_id": "two classes",
+      "canonical_name": "two classes",
+      "source_books": [
+        "the_republic"
+      ]
+    },
+    "407": {
+      "concept_id": "natural selection",
+      "canonical_name": "natural selection",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "408": {
+      "concept_id": "organic beings",
+      "canonical_name": "organic beings",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "409": {
+      "concept_id": "one species",
+      "canonical_name": "one species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "410": {
+      "concept_id": "glacial period",
+      "canonical_name": "glacial period",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "411": {
+      "concept_id": "distinct species",
+      "canonical_name": "distinct species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "412": {
+      "concept_id": "new species",
+      "canonical_name": "new species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "413": {
+      "concept_id": "two species",
+      "canonical_name": "two species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "414": {
+      "concept_id": "these facts",
+      "canonical_name": "these facts",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "415": {
+      "concept_id": "domestic animals",
+      "canonical_name": "domestic animals",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "416": {
+      "concept_id": "geological record",
+      "canonical_name": "geological record",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "417": {
+      "concept_id": "common parent",
+      "canonical_name": "common parent",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "418": {
+      "concept_id": "rudimentary organs",
+      "canonical_name": "rudimentary organs",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "419": {
+      "concept_id": "physical conditions",
+      "canonical_name": "physical conditions",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "420": {
+      "concept_id": "first crosses",
+      "canonical_name": "first crosses",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "421": {
+      "concept_id": "the species",
+      "canonical_name": "the species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "422": {
+      "concept_id": "many species",
+      "canonical_name": "many species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "423": {
+      "concept_id": "larger genera",
+      "canonical_name": "larger genera",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "424": {
+      "concept_id": "reproductive system",
+      "canonical_name": "reproductive system",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "425": {
+      "concept_id": "intermediate varieties",
+      "canonical_name": "intermediate varieties",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "426": {
+      "concept_id": "successive generations",
+      "canonical_name": "successive generations",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "427": {
+      "concept_id": "modified descendants",
+      "canonical_name": "modified descendants",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "428": {
+      "concept_id": "natural history",
+      "canonical_name": "natural history",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "429": {
+      "concept_id": "certain extent",
+      "canonical_name": "certain extent",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "430": {
+      "concept_id": "geographical distribution",
+      "canonical_name": "geographical distribution",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "431": {
+      "concept_id": "several species",
+      "canonical_name": "several species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "432": {
+      "concept_id": "whole groups",
+      "canonical_name": "whole groups",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "433": {
+      "concept_id": "oceanic islands",
+      "canonical_name": "oceanic islands",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "434": {
+      "concept_id": "common progenitor",
+      "canonical_name": "common progenitor",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "435": {
+      "concept_id": "domestic productions",
+      "canonical_name": "domestic productions",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "436": {
+      "concept_id": "sexual selection",
+      "canonical_name": "sexual selection",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "437": {
+      "concept_id": "these cases",
+      "canonical_name": "these cases",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "438": {
+      "concept_id": "incipient species",
+      "canonical_name": "incipient species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "439": {
+      "concept_id": "allied species",
+      "canonical_name": "allied species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "440": {
+      "concept_id": "natural system",
+      "canonical_name": "natural system",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "441": {
+      "concept_id": "two forms",
+      "canonical_name": "two forms",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "442": {
+      "concept_id": "another species",
+      "canonical_name": "another species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "443": {
+      "concept_id": "direct action",
+      "canonical_name": "direct action",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "444": {
+      "concept_id": "domestic races",
+      "canonical_name": "domestic races",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "445": {
+      "concept_id": "secondary sexual characters",
+      "canonical_name": "secondary sexual characters",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "446": {
+      "concept_id": "reciprocal crosses",
+      "canonical_name": "reciprocal crosses",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "447": {
+      "concept_id": "single species",
+      "canonical_name": "single species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "448": {
+      "concept_id": "best chance",
+      "canonical_name": "best chance",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "449": {
+      "concept_id": "better chance",
+      "canonical_name": "better chance",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "450": {
+      "concept_id": "new varieties",
+      "canonical_name": "new varieties",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "451": {
+      "concept_id": "general rule",
+      "canonical_name": "general rule",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "452": {
+      "concept_id": "domestic varieties",
+      "canonical_name": "domestic varieties",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "453": {
+      "concept_id": "the individuals",
+      "canonical_name": "the individuals",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "454": {
+      "concept_id": "large genera",
+      "canonical_name": "large genera",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "455": {
+      "concept_id": "new forms",
+      "canonical_name": "new forms",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "456": {
+      "concept_id": "long course",
+      "canonical_name": "long course",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "457": {
+      "concept_id": "reproductive systems",
+      "canonical_name": "reproductive systems",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "458": {
+      "concept_id": "external conditions",
+      "canonical_name": "external conditions",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "459": {
+      "concept_id": "one hand",
+      "canonical_name": "one hand",
+      "source_books": [
+        "on_the_origin_of_species",
+        "the_art_of_war"
+      ]
+    },
+    "460": {
+      "concept_id": "different species",
+      "canonical_name": "different species",
+      "source_books": [
+        "on_the_origin_of_species",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "461": {
+      "concept_id": "intermediate links",
+      "canonical_name": "intermediate links",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "462": {
+      "concept_id": "large number",
+      "canonical_name": "large number",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "463": {
+      "concept_id": "organic being",
+      "canonical_name": "organic being",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "464": {
+      "concept_id": "specific forms",
+      "canonical_name": "specific forms",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "465": {
+      "concept_id": "ordinary view",
+      "canonical_name": "ordinary view",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "466": {
+      "concept_id": "great class",
+      "canonical_name": "great class",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "467": {
+      "concept_id": "systematic affinity",
+      "canonical_name": "systematic affinity",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "468": {
+      "concept_id": "geological succession",
+      "canonical_name": "geological succession",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "469": {
+      "concept_id": "extinct species",
+      "canonical_name": "extinct species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "470": {
+      "concept_id": "occasional means",
+      "canonical_name": "occasional means",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "471": {
+      "concept_id": "terrestrial mammals",
+      "canonical_name": "terrestrial mammals",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "472": {
+      "concept_id": "highest importance",
+      "canonical_name": "highest importance",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "473": {
+      "concept_id": "last chapter",
+      "canonical_name": "last chapter",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "474": {
+      "concept_id": "great difficulty",
+      "canonical_name": "great difficulty",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "475": {
+      "concept_id": "lesser degree",
+      "canonical_name": "lesser degree",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "476": {
+      "concept_id": "slight degree",
+      "canonical_name": "slight degree",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "477": {
+      "concept_id": "important part",
+      "canonical_name": "important part",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "478": {
+      "concept_id": "high importance",
+      "canonical_name": "high importance",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "479": {
+      "concept_id": "certain species",
+      "canonical_name": "certain species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "480": {
+      "concept_id": "two varieties",
+      "canonical_name": "two varieties",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "481": {
+      "concept_id": "long period",
+      "canonical_name": "long period",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "482": {
+      "concept_id": "lesser numbers",
+      "canonical_name": "lesser numbers",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "483": {
+      "concept_id": "opposite sides",
+      "canonical_name": "opposite sides",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "484": {
+      "concept_id": "southern hemisphere",
+      "canonical_name": "southern hemisphere",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "485": {
+      "concept_id": "mutual affinities",
+      "canonical_name": "mutual affinities",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "486": {
+      "concept_id": "smaller genera",
+      "canonical_name": "smaller genera",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "487": {
+      "concept_id": "specific characters",
+      "canonical_name": "specific characters",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "488": {
+      "concept_id": "close interbreeding",
+      "canonical_name": "close interbreeding",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "489": {
+      "concept_id": "living species",
+      "canonical_name": "living species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "490": {
+      "concept_id": "corresponding age",
+      "canonical_name": "corresponding age",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "491": {
+      "concept_id": "mutual relations",
+      "canonical_name": "mutual relations",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "492": {
+      "concept_id": "whole organisation",
+      "canonical_name": "whole organisation",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "493": {
+      "concept_id": "tierra del fuego",
+      "canonical_name": "tierra del fuego",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "494": {
+      "concept_id": "short-faced tumbler",
+      "canonical_name": "short-faced tumbler",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "495": {
+      "concept_id": "these characters",
+      "canonical_name": "these characters",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "496": {
+      "concept_id": "these species",
+      "canonical_name": "these species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "497": {
+      "concept_id": "early period",
+      "canonical_name": "early period",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "498": {
+      "concept_id": "one side",
+      "canonical_name": "one side",
+      "source_books": [
+        "on_the_origin_of_species",
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "499": {
+      "concept_id": "many kinds",
+      "canonical_name": "many kinds",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "500": {
+      "concept_id": "these animals",
+      "canonical_name": "these animals",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "501": {
+      "concept_id": "corresponding ages",
+      "canonical_name": "corresponding ages",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "502": {
+      "concept_id": "remarkable fact",
+      "canonical_name": "remarkable fact",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "503": {
+      "concept_id": "long intervals",
+      "canonical_name": "long intervals",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "504": {
+      "concept_id": "consecutive formations",
+      "canonical_name": "consecutive formations",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "505": {
+      "concept_id": "individual differences",
+      "canonical_name": "individual differences",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "506": {
+      "concept_id": "fresh-water productions",
+      "canonical_name": "fresh-water productions",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "507": {
+      "concept_id": "much extinction",
+      "canonical_name": "much extinction",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "508": {
+      "concept_id": "most different climates",
+      "canonical_name": "most different climates",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "509": {
+      "concept_id": "many generations",
+      "canonical_name": "many generations",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "510": {
+      "concept_id": "one sex",
+      "canonical_name": "one sex",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "511": {
+      "concept_id": "domestic breeds",
+      "canonical_name": "domestic breeds",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "512": {
+      "concept_id": "these remarks",
+      "canonical_name": "these remarks",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "513": {
+      "concept_id": "large extent",
+      "canonical_name": "large extent",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "514": {
+      "concept_id": "first cross",
+      "canonical_name": "first cross",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "515": {
+      "concept_id": "several breeds",
+      "canonical_name": "several breeds",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "516": {
+      "concept_id": "different varieties",
+      "canonical_name": "different varieties",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "517": {
+      "concept_id": "allied forms",
+      "canonical_name": "allied forms",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "518": {
+      "concept_id": "well-marked varieties",
+      "canonical_name": "well-marked varieties",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "519": {
+      "concept_id": "distinct genera",
+      "canonical_name": "distinct genera",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "520": {
+      "concept_id": "several parts",
+      "canonical_name": "several parts",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "521": {
+      "concept_id": "new homes",
+      "canonical_name": "new homes",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "522": {
+      "concept_id": "old forms",
+      "canonical_name": "old forms",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "523": {
+      "concept_id": "fresh water",
+      "canonical_name": "fresh water",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "524": {
+      "concept_id": "two groups",
+      "canonical_name": "two groups",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "525": {
+      "concept_id": "agassiz",
+      "canonical_name": "agassiz",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "526": {
+      "concept_id": "new worlds",
+      "canonical_name": "new worlds",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "527": {
+      "concept_id": "many islands",
+      "canonical_name": "many islands",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "528": {
+      "concept_id": "slight modifications",
+      "canonical_name": "slight modifications",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "529": {
+      "concept_id": "webbed feet",
+      "canonical_name": "webbed feet",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "530": {
+      "concept_id": "electric organs",
+      "canonical_name": "electric organs",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "531": {
+      "concept_id": "organic change",
+      "canonical_name": "organic change",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "532": {
+      "concept_id": "several formations",
+      "canonical_name": "several formations",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "533": {
+      "concept_id": "two areas",
+      "canonical_name": "two areas",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "534": {
+      "concept_id": "natura",
+      "canonical_name": "natura",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "535": {
+      "concept_id": "changed conditions",
+      "canonical_name": "changed conditions",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "536": {
+      "concept_id": "mongrel offspring",
+      "canonical_name": "mongrel offspring",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "537": {
+      "concept_id": "geological formations",
+      "canonical_name": "geological formations",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "538": {
+      "concept_id": "sudden appearance",
+      "canonical_name": "sudden appearance",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "539": {
+      "concept_id": "large amount",
+      "canonical_name": "large amount",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "540": {
+      "concept_id": "new conditions",
+      "canonical_name": "new conditions",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "541": {
+      "concept_id": "nearly the same manner",
+      "canonical_name": "nearly the same manner",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "542": {
+      "concept_id": "large groups",
+      "canonical_name": "large groups",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "543": {
+      "concept_id": "these views",
+      "canonical_name": "these views",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "544": {
+      "concept_id": "various degrees",
+      "canonical_name": "various degrees",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "545": {
+      "concept_id": "these plants",
+      "canonical_name": "these plants",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "546": {
+      "concept_id": "dominant species",
+      "canonical_name": "dominant species",
+      "source_books": [
+        "on_the_origin_of_species"
+      ]
+    },
+    "547": {
+      "concept_id": "florentines",
+      "canonical_name": "florentines",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "548": {
+      "concept_id": "new prince",
+      "canonical_name": "new prince",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "549": {
+      "concept_id": "uguccione",
+      "canonical_name": "uguccione",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "550": {
+      "concept_id": "a way",
+      "canonical_name": "a way",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "551": {
+      "concept_id": "oliverotto",
+      "canonical_name": "oliverotto",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "552": {
+      "concept_id": "prince",
+      "canonical_name": "prince",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "553": {
+      "concept_id": "medici",
+      "canonical_name": "medici",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "554": {
+      "concept_id": "lucchese",
+      "canonical_name": "lucchese",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "555": {
+      "concept_id": "switzers",
+      "canonical_name": "switzers",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "556": {
+      "concept_id": "good fortune",
+      "canonical_name": "good fortune",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "557": {
+      "concept_id": "pisa",
+      "canonical_name": "pisa",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "558": {
+      "concept_id": "fortune",
+      "canonical_name": "fortune",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "559": {
+      "concept_id": "duke valentino",
+      "canonical_name": "duke valentino",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "560": {
+      "concept_id": "pope julius",
+      "canonical_name": "pope julius",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "561": {
+      "concept_id": "own forces",
+      "canonical_name": "own forces",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "562": {
+      "concept_id": "two ways",
+      "canonical_name": "two ways",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "563": {
+      "concept_id": "giovanni",
+      "canonical_name": "giovanni",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "564": {
+      "concept_id": "wise prince",
+      "canonical_name": "wise prince",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "565": {
+      "concept_id": "montecarlo",
+      "canonical_name": "montecarlo",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "566": {
+      "concept_id": "oliverotto da fermo",
+      "canonical_name": "oliverotto da fermo",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "567": {
+      "concept_id": "alexander",
+      "canonical_name": "alexander",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "568": {
+      "concept_id": "short time",
+      "canonical_name": "short time",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "569": {
+      "concept_id": "these arms",
+      "canonical_name": "these arms",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "570": {
+      "concept_id": "guelph party",
+      "canonical_name": "guelph party",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "571": {
+      "concept_id": "new principalities",
+      "canonical_name": "new principalities",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "572": {
+      "concept_id": "new principality",
+      "canonical_name": "new principality",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "573": {
+      "concept_id": "these men",
+      "canonical_name": "these men",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "574": {
+      "concept_id": "carlo",
+      "canonical_name": "carlo",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "575": {
+      "concept_id": "own laws",
+      "canonical_name": "own laws",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "576": {
+      "concept_id": "duke di gravina orsini",
+      "canonical_name": "duke di gravina orsini",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "577": {
+      "concept_id": "great things",
+      "canonical_name": "great things",
+      "source_books": [
+        "the_prince",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "578": {
+      "concept_id": "very short time",
+      "canonical_name": "very short time",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "579": {
+      "concept_id": "pope alexander",
+      "canonical_name": "pope alexander",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "580": {
+      "concept_id": "private station",
+      "canonical_name": "private station",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "581": {
+      "concept_id": "new order",
+      "canonical_name": "new order",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "582": {
+      "concept_id": "those emperors",
+      "canonical_name": "those emperors",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "583": {
+      "concept_id": "colonnesi",
+      "canonical_name": "colonnesi",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "584": {
+      "concept_id": "many others",
+      "canonical_name": "many others",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "585": {
+      "concept_id": "first case",
+      "canonical_name": "first case",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "586": {
+      "concept_id": "good laws",
+      "canonical_name": "good laws",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "587": {
+      "concept_id": "imola",
+      "canonical_name": "imola",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "588": {
+      "concept_id": "illustrious house",
+      "canonical_name": "illustrious house",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "589": {
+      "concept_id": "fano",
+      "canonical_name": "fano",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "590": {
+      "concept_id": "king ruberto",
+      "canonical_name": "king ruberto",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "591": {
+      "concept_id": "chapter xi",
+      "canonical_name": "chapter xi",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "592": {
+      "concept_id": "chapter vii",
+      "canonical_name": "chapter vii",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "593": {
+      "concept_id": "human affairs",
+      "canonical_name": "human affairs",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "594": {
+      "concept_id": "castruccio castracani",
+      "canonical_name": "castruccio castracani",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "595": {
+      "concept_id": "one time",
+      "canonical_name": "one time",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "596": {
+      "concept_id": "forli",
+      "canonical_name": "forli",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "597": {
+      "concept_id": "many ways",
+      "canonical_name": "many ways",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "598": {
+      "concept_id": "new one",
+      "canonical_name": "new one",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "599": {
+      "concept_id": "cardinal de\u2019 medici",
+      "canonical_name": "cardinal de\u2019 medici",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "600": {
+      "concept_id": "new ones",
+      "canonical_name": "new ones",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "601": {
+      "concept_id": "those states",
+      "canonical_name": "those states",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "602": {
+      "concept_id": "own strength",
+      "canonical_name": "own strength",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "603": {
+      "concept_id": "above reasons",
+      "canonical_name": "above reasons",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "604": {
+      "concept_id": "own citizens",
+      "canonical_name": "own citizens",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "605": {
+      "concept_id": "own soldiers",
+      "canonical_name": "own soldiers",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "606": {
+      "concept_id": "little trouble",
+      "canonical_name": "little trouble",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "607": {
+      "concept_id": "private person",
+      "canonical_name": "private person",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "608": {
+      "concept_id": "own way",
+      "canonical_name": "own way",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "609": {
+      "concept_id": "military profession",
+      "canonical_name": "military profession",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "610": {
+      "concept_id": "troubled times",
+      "canonical_name": "troubled times",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "611": {
+      "concept_id": "whole people",
+      "canonical_name": "whole people",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "612": {
+      "concept_id": "a character",
+      "canonical_name": "a character",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "613": {
+      "concept_id": "temporal power",
+      "canonical_name": "temporal power",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "614": {
+      "concept_id": "king of naples",
+      "canonical_name": "king of naples",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "615": {
+      "concept_id": "those vices",
+      "canonical_name": "those vices",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "616": {
+      "concept_id": "little account",
+      "canonical_name": "little account",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "617": {
+      "concept_id": "many men",
+      "canonical_name": "many men",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "618": {
+      "concept_id": "fox",
+      "canonical_name": "fox",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "619": {
+      "concept_id": "testina",
+      "canonical_name": "testina",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "620": {
+      "concept_id": "one party",
+      "canonical_name": "one party",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "621": {
+      "concept_id": "soldan",
+      "canonical_name": "soldan",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "622": {
+      "concept_id": "four hundred horsemen",
+      "canonical_name": "four hundred horsemen",
+      "source_books": [
+        "the_prince"
+      ]
+    },
+    "623": {
+      "concept_id": "soveraign power",
+      "canonical_name": "soveraign power",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "624": {
+      "concept_id": "soveraign",
+      "canonical_name": "soveraign",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "625": {
+      "concept_id": "assembly",
+      "canonical_name": "assembly",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "626": {
+      "concept_id": "authority",
+      "canonical_name": "authority",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "627": {
+      "concept_id": "law of nature",
+      "canonical_name": "law of nature",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "628": {
+      "concept_id": "nature",
+      "canonical_name": "nature",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "629": {
+      "concept_id": "spirit",
+      "canonical_name": "spirit",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "630": {
+      "concept_id": "new testament",
+      "canonical_name": "new testament",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "631": {
+      "concept_id": "civill soveraign",
+      "canonical_name": "civill soveraign",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "632": {
+      "concept_id": "counsell",
+      "canonical_name": "counsell",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "633": {
+      "concept_id": "power",
+      "canonical_name": "power",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "634": {
+      "concept_id": "civill law",
+      "canonical_name": "civill law",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "635": {
+      "concept_id": "holy ghost",
+      "canonical_name": "holy ghost",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "636": {
+      "concept_id": "old testament",
+      "canonical_name": "old testament",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "637": {
+      "concept_id": "eternall life",
+      "canonical_name": "eternall life",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "638": {
+      "concept_id": "dominion",
+      "canonical_name": "dominion",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "639": {
+      "concept_id": "monarch",
+      "canonical_name": "monarch",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "640": {
+      "concept_id": "kingdome",
+      "canonical_name": "kingdome",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "641": {
+      "concept_id": "nations",
+      "canonical_name": "nations",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "642": {
+      "concept_id": "civill power",
+      "canonical_name": "civill power",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "643": {
+      "concept_id": "soveraign assembly",
+      "canonical_name": "soveraign assembly",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "644": {
+      "concept_id": "evill",
+      "canonical_name": "evill",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "645": {
+      "concept_id": "kings",
+      "canonical_name": "kings",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "646": {
+      "concept_id": "high priest",
+      "canonical_name": "high priest",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "647": {
+      "concept_id": "holy scripture",
+      "canonical_name": "holy scripture",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "648": {
+      "concept_id": "vision",
+      "canonical_name": "vision",
+      "source_books": [
+        "leviathan",
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "649": {
+      "concept_id": "christ",
+      "canonical_name": "christ",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "650": {
+      "concept_id": "angels",
+      "canonical_name": "angels",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "651": {
+      "concept_id": "salvation",
+      "canonical_name": "salvation",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "652": {
+      "concept_id": "publique ministers",
+      "canonical_name": "publique ministers",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "653": {
+      "concept_id": "naturall reason",
+      "canonical_name": "naturall reason",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "654": {
+      "concept_id": "liberty",
+      "canonical_name": "liberty",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "655": {
+      "concept_id": "bodies",
+      "canonical_name": "bodies",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "656": {
+      "concept_id": "actions",
+      "canonical_name": "actions",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "657": {
+      "concept_id": "private men",
+      "canonical_name": "private men",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "658": {
+      "concept_id": "judgement",
+      "canonical_name": "judgement",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "659": {
+      "concept_id": "office",
+      "canonical_name": "office",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "660": {
+      "concept_id": "soveraigne power",
+      "canonical_name": "soveraigne power",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "661": {
+      "concept_id": "soveraigns",
+      "canonical_name": "soveraigns",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "662": {
+      "concept_id": "publique authority",
+      "canonical_name": "publique authority",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "663": {
+      "concept_id": "baptisme",
+      "canonical_name": "baptisme",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "664": {
+      "concept_id": "command",
+      "canonical_name": "command",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "665": {
+      "concept_id": "one person",
+      "canonical_name": "one person",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "666": {
+      "concept_id": "holy spirit",
+      "canonical_name": "holy spirit",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "667": {
+      "concept_id": "science",
+      "canonical_name": "science",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "668": {
+      "concept_id": "gentiles",
+      "canonical_name": "gentiles",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "669": {
+      "concept_id": "civill government",
+      "canonical_name": "civill government",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "670": {
+      "concept_id": "soveraign authority",
+      "canonical_name": "soveraign authority",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "671": {
+      "concept_id": "spirituall",
+      "canonical_name": "spirituall",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "672": {
+      "concept_id": "body politique",
+      "canonical_name": "body politique",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "673": {
+      "concept_id": "christian faith",
+      "canonical_name": "christian faith",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "674": {
+      "concept_id": "images",
+      "canonical_name": "images",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "675": {
+      "concept_id": "miracle",
+      "canonical_name": "miracle",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "676": {
+      "concept_id": "1 cor",
+      "canonical_name": "1 cor",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "677": {
+      "concept_id": "image",
+      "canonical_name": "image",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "678": {
+      "concept_id": "living creature",
+      "canonical_name": "living creature",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "679": {
+      "concept_id": "commission",
+      "canonical_name": "commission",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "680": {
+      "concept_id": "governours",
+      "canonical_name": "governours",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "681": {
+      "concept_id": "article",
+      "canonical_name": "article",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "682": {
+      "concept_id": "neverthelesse",
+      "canonical_name": "neverthelesse",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "683": {
+      "concept_id": "revelation",
+      "canonical_name": "revelation",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "684": {
+      "concept_id": "meer nature",
+      "canonical_name": "meer nature",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "685": {
+      "concept_id": "deut",
+      "canonical_name": "deut",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "686": {
+      "concept_id": "life eternall",
+      "canonical_name": "life eternall",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "687": {
+      "concept_id": "christian common-wealth",
+      "canonical_name": "christian common-wealth",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "688": {
+      "concept_id": "peace",
+      "canonical_name": "peace",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "689": {
+      "concept_id": "vertue",
+      "canonical_name": "vertue",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "690": {
+      "concept_id": "christian religion",
+      "canonical_name": "christian religion",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "691": {
+      "concept_id": "legislative power",
+      "canonical_name": "legislative power",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "692": {
+      "concept_id": "private man",
+      "canonical_name": "private man",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "693": {
+      "concept_id": "naturall",
+      "canonical_name": "naturall",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "694": {
+      "concept_id": "latine",
+      "canonical_name": "latine",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "695": {
+      "concept_id": "phantasmes",
+      "canonical_name": "phantasmes",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "696": {
+      "concept_id": "humane nature",
+      "canonical_name": "humane nature",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "697": {
+      "concept_id": "teachers",
+      "canonical_name": "teachers",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "698": {
+      "concept_id": "st. paul",
+      "canonical_name": "st. paul",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "699": {
+      "concept_id": "high priests",
+      "canonical_name": "high priests",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "700": {
+      "concept_id": "princes",
+      "canonical_name": "princes",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "701": {
+      "concept_id": "many places",
+      "canonical_name": "many places",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "702": {
+      "concept_id": "bible",
+      "canonical_name": "bible",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "703": {
+      "concept_id": "civill lawes",
+      "canonical_name": "civill lawes",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "704": {
+      "concept_id": "particular man",
+      "canonical_name": "particular man",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "705": {
+      "concept_id": "riches",
+      "canonical_name": "riches",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "706": {
+      "concept_id": "powers",
+      "canonical_name": "powers",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "707": {
+      "concept_id": "lords",
+      "canonical_name": "lords",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "708": {
+      "concept_id": "fire",
+      "canonical_name": "fire",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "709": {
+      "concept_id": "temporall",
+      "canonical_name": "temporall",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "710": {
+      "concept_id": "institution",
+      "canonical_name": "institution",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "711": {
+      "concept_id": "foundation",
+      "canonical_name": "foundation",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "712": {
+      "concept_id": "resurrection",
+      "canonical_name": "resurrection",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "713": {
+      "concept_id": "brazen serpent",
+      "canonical_name": "brazen serpent",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "714": {
+      "concept_id": "civill society",
+      "canonical_name": "civill society",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "715": {
+      "concept_id": "two sorts",
+      "canonical_name": "two sorts",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "716": {
+      "concept_id": "civill warre",
+      "canonical_name": "civill warre",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "717": {
+      "concept_id": "latines",
+      "canonical_name": "latines",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "718": {
+      "concept_id": "naturall causes",
+      "canonical_name": "naturall causes",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "719": {
+      "concept_id": "supreme authority",
+      "canonical_name": "supreme authority",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "720": {
+      "concept_id": "common power",
+      "canonical_name": "common power",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "721": {
+      "concept_id": "army",
+      "canonical_name": "army",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "722": {
+      "concept_id": "rebellion",
+      "canonical_name": "rebellion",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "723": {
+      "concept_id": "congregation",
+      "canonical_name": "congregation",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "724": {
+      "concept_id": "greater crime",
+      "canonical_name": "greater crime",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "725": {
+      "concept_id": "sun",
+      "canonical_name": "sun",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "726": {
+      "concept_id": "promise",
+      "canonical_name": "promise",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "727": {
+      "concept_id": "living creatures",
+      "canonical_name": "living creatures",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "728": {
+      "concept_id": "religion",
+      "canonical_name": "religion",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "729": {
+      "concept_id": "kingdome of god",
+      "canonical_name": "kingdome of god",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "730": {
+      "concept_id": "kingdomes",
+      "canonical_name": "kingdomes",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "731": {
+      "concept_id": "laws of nature",
+      "canonical_name": "laws of nature",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "732": {
+      "concept_id": "victor",
+      "canonical_name": "victor",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "733": {
+      "concept_id": "bodies politique",
+      "canonical_name": "bodies politique",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "734": {
+      "concept_id": "temple",
+      "canonical_name": "temple",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "735": {
+      "concept_id": "christian kings",
+      "canonical_name": "christian kings",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "736": {
+      "concept_id": "everlasting death",
+      "canonical_name": "everlasting death",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "737": {
+      "concept_id": "present world",
+      "canonical_name": "present world",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "738": {
+      "concept_id": "churches",
+      "canonical_name": "churches",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "739": {
+      "concept_id": "mans body",
+      "canonical_name": "mans body",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "740": {
+      "concept_id": "right reason",
+      "canonical_name": "right reason",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "741": {
+      "concept_id": "lesse",
+      "canonical_name": "lesse",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "742": {
+      "concept_id": "society",
+      "canonical_name": "society",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "743": {
+      "concept_id": "love",
+      "canonical_name": "love",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "744": {
+      "concept_id": "war",
+      "canonical_name": "war",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "745": {
+      "concept_id": "conquest",
+      "canonical_name": "conquest",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "746": {
+      "concept_id": "church of rome",
+      "canonical_name": "church of rome",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "747": {
+      "concept_id": "particular men",
+      "canonical_name": "particular men",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "748": {
+      "concept_id": "succession",
+      "canonical_name": "succession",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "749": {
+      "concept_id": "those words",
+      "canonical_name": "those words",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "750": {
+      "concept_id": "voice",
+      "canonical_name": "voice",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "751": {
+      "concept_id": "canons",
+      "canonical_name": "canons",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "752": {
+      "concept_id": "commandements",
+      "canonical_name": "commandements",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "753": {
+      "concept_id": "false prophets",
+      "canonical_name": "false prophets",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "754": {
+      "concept_id": "levites",
+      "canonical_name": "levites",
+      "source_books": [
+        "leviathan"
+      ]
+    },
+    "755": {
+      "concept_id": "common life",
+      "canonical_name": "common life",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "756": {
+      "concept_id": "external objects",
+      "canonical_name": "external objects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "757": {
+      "concept_id": "supreme being",
+      "canonical_name": "supreme being",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "758": {
+      "concept_id": "human testimony",
+      "canonical_name": "human testimony",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "759": {
+      "concept_id": "human understanding",
+      "canonical_name": "human understanding",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "760": {
+      "concept_id": "one object",
+      "canonical_name": "one object",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "761": {
+      "concept_id": "sensible qualities",
+      "canonical_name": "sensible qualities",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "762": {
+      "concept_id": "necessary connexion",
+      "canonical_name": "necessary connexion",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "763": {
+      "concept_id": "one event",
+      "canonical_name": "one event",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "764": {
+      "concept_id": "deity",
+      "canonical_name": "deity",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "765": {
+      "concept_id": "voluntary actions",
+      "canonical_name": "voluntary actions",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "766": {
+      "concept_id": "human actions",
+      "canonical_name": "human actions",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "767": {
+      "concept_id": "these principles",
+      "canonical_name": "these principles",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "768": {
+      "concept_id": "secret powers",
+      "canonical_name": "secret powers",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "769": {
+      "concept_id": "human reason",
+      "canonical_name": "human reason",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "770": {
+      "concept_id": "real existence",
+      "canonical_name": "real existence",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "771": {
+      "concept_id": "past experience",
+      "canonical_name": "past experience",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "772": {
+      "concept_id": "one instance",
+      "canonical_name": "one instance",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "773": {
+      "concept_id": "certain degree",
+      "canonical_name": "certain degree",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "774": {
+      "concept_id": "these circumstances",
+      "canonical_name": "these circumstances",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "775": {
+      "concept_id": "part i",
+      "canonical_name": "part i",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "776": {
+      "concept_id": "our reasonings",
+      "canonical_name": "our reasonings",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "777": {
+      "concept_id": "natural philosophy",
+      "canonical_name": "natural philosophy",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "778": {
+      "concept_id": "first appearance",
+      "canonical_name": "first appearance",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "779": {
+      "concept_id": "part ii",
+      "canonical_name": "part ii",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "780": {
+      "concept_id": "usual attendant",
+      "canonical_name": "usual attendant",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "781": {
+      "concept_id": "human action",
+      "canonical_name": "human action",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "782": {
+      "concept_id": "simple ideas",
+      "canonical_name": "simple ideas",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "783": {
+      "concept_id": "like nature",
+      "canonical_name": "like nature",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "784": {
+      "concept_id": "these laws",
+      "canonical_name": "these laws",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "785": {
+      "concept_id": "abstract reasoning",
+      "canonical_name": "abstract reasoning",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "786": {
+      "concept_id": "constant conjunction",
+      "canonical_name": "constant conjunction",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "787": {
+      "concept_id": "similar objects",
+      "canonical_name": "similar objects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "788": {
+      "concept_id": "similar instances",
+      "canonical_name": "similar instances",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "789": {
+      "concept_id": "uniform experience",
+      "canonical_name": "uniform experience",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "790": {
+      "concept_id": "regular conjunction",
+      "canonical_name": "regular conjunction",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "791": {
+      "concept_id": "experimental reasoning",
+      "canonical_name": "experimental reasoning",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "792": {
+      "concept_id": "just reasoning",
+      "canonical_name": "just reasoning",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "793": {
+      "concept_id": "usual course",
+      "canonical_name": "usual course",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "794": {
+      "concept_id": "divine existence",
+      "canonical_name": "divine existence",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "795": {
+      "concept_id": "new effects",
+      "canonical_name": "new effects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "796": {
+      "concept_id": "natural instinct",
+      "canonical_name": "natural instinct",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "797": {
+      "concept_id": "those principles",
+      "canonical_name": "those principles",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "798": {
+      "concept_id": "human body",
+      "canonical_name": "human body",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "799": {
+      "concept_id": "human creature",
+      "canonical_name": "human creature",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "800": {
+      "concept_id": "a manner",
+      "canonical_name": "a manner",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "801": {
+      "concept_id": "contiguity",
+      "canonical_name": "contiguity",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "802": {
+      "concept_id": "mere operation",
+      "canonical_name": "mere operation",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "803": {
+      "concept_id": "particular objects",
+      "canonical_name": "particular objects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "804": {
+      "concept_id": "whole course",
+      "canonical_name": "whole course",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "805": {
+      "concept_id": "ultimate causes",
+      "canonical_name": "ultimate causes",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "806": {
+      "concept_id": "natural powers",
+      "canonical_name": "natural powers",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "807": {
+      "concept_id": "moral reasoning",
+      "canonical_name": "moral reasoning",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "808": {
+      "concept_id": "these arguments",
+      "canonical_name": "these arguments",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "809": {
+      "concept_id": "own minds",
+      "canonical_name": "own minds",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "810": {
+      "concept_id": "very circumstance",
+      "canonical_name": "very circumstance",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "811": {
+      "concept_id": "other principle",
+      "canonical_name": "other principle",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "812": {
+      "concept_id": "customary transition",
+      "canonical_name": "customary transition",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "813": {
+      "concept_id": "very nature",
+      "canonical_name": "very nature",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "814": {
+      "concept_id": "single instance",
+      "canonical_name": "single instance",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "815": {
+      "concept_id": "single instances",
+      "canonical_name": "single instances",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "816": {
+      "concept_id": "new idea",
+      "canonical_name": "new idea",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "817": {
+      "concept_id": "many philosophers",
+      "canonical_name": "many philosophers",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "818": {
+      "concept_id": "des cartes",
+      "canonical_name": "des cartes",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "819": {
+      "concept_id": "greater variety",
+      "canonical_name": "greater variety",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "820": {
+      "concept_id": "those miracles",
+      "canonical_name": "those miracles",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "821": {
+      "concept_id": "these miracles",
+      "canonical_name": "these miracles",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "822": {
+      "concept_id": "these attributes",
+      "canonical_name": "these attributes",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "823": {
+      "concept_id": "general ideas",
+      "canonical_name": "general ideas",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "824": {
+      "concept_id": "these objects",
+      "canonical_name": "these objects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "825": {
+      "concept_id": "particular instances",
+      "canonical_name": "particular instances",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "826": {
+      "concept_id": "abstruse philosophy",
+      "canonical_name": "abstruse philosophy",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "827": {
+      "concept_id": "natural sentiments",
+      "canonical_name": "natural sentiments",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "828": {
+      "concept_id": "even those",
+      "canonical_name": "even those",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "829": {
+      "concept_id": "these researches",
+      "canonical_name": "these researches",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "830": {
+      "concept_id": "external bodies",
+      "canonical_name": "external bodies",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "831": {
+      "concept_id": "mental geography",
+      "canonical_name": "mental geography",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "832": {
+      "concept_id": "natural objects",
+      "canonical_name": "natural objects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "833": {
+      "concept_id": "general term",
+      "canonical_name": "general term",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "834": {
+      "concept_id": "general maxim",
+      "canonical_name": "general maxim",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "835": {
+      "concept_id": "proper use",
+      "canonical_name": "proper use",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "836": {
+      "concept_id": "innate ideas",
+      "canonical_name": "innate ideas",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "837": {
+      "concept_id": "these terms",
+      "canonical_name": "these terms",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "838": {
+      "concept_id": "different ideas",
+      "canonical_name": "different ideas",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "839": {
+      "concept_id": "two objects",
+      "canonical_name": "two objects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "840": {
+      "concept_id": "the objects",
+      "canonical_name": "the objects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "841": {
+      "concept_id": "other fact",
+      "canonical_name": "other fact",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "842": {
+      "concept_id": "our knowledge",
+      "canonical_name": "our knowledge",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "843": {
+      "concept_id": "ultimate reason",
+      "canonical_name": "ultimate reason",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "844": {
+      "concept_id": "these suppositions",
+      "canonical_name": "these suppositions",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "845": {
+      "concept_id": "abstract reasonings",
+      "canonical_name": "abstract reasonings",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "846": {
+      "concept_id": "those objects",
+      "canonical_name": "those objects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "847": {
+      "concept_id": "constant and regular conjunction",
+      "canonical_name": "constant and regular conjunction",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "848": {
+      "concept_id": "similar effects",
+      "canonical_name": "similar effects",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "849": {
+      "concept_id": "our conclusions",
+      "canonical_name": "our conclusions",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "850": {
+      "concept_id": "human knowledge",
+      "canonical_name": "human knowledge",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "851": {
+      "concept_id": "great guide",
+      "canonical_name": "great guide",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "852": {
+      "concept_id": "which nature",
+      "canonical_name": "which nature",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "853": {
+      "concept_id": "the sources",
+      "canonical_name": "the sources",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "854": {
+      "concept_id": "ultimate principle",
+      "canonical_name": "ultimate principle",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "855": {
+      "concept_id": "general observations",
+      "canonical_name": "general observations",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "856": {
+      "concept_id": "customary conjunction",
+      "canonical_name": "customary conjunction",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "857": {
+      "concept_id": "other object",
+      "canonical_name": "other object",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "858": {
+      "concept_id": "many instances",
+      "canonical_name": "many instances",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "859": {
+      "concept_id": "these ideas",
+      "canonical_name": "these ideas",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "860": {
+      "concept_id": "these sentiments",
+      "canonical_name": "these sentiments",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "861": {
+      "concept_id": "the circumstances",
+      "canonical_name": "the circumstances",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "862": {
+      "concept_id": "philosophical reasonings",
+      "canonical_name": "philosophical reasonings",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "863": {
+      "concept_id": "other event",
+      "canonical_name": "other event",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "864": {
+      "concept_id": "immediate object",
+      "canonical_name": "immediate object",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "865": {
+      "concept_id": "other idea",
+      "canonical_name": "other idea",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "866": {
+      "concept_id": "particular volition",
+      "canonical_name": "particular volition",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "867": {
+      "concept_id": "own faculties",
+      "canonical_name": "own faculties",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "868": {
+      "concept_id": "these events",
+      "canonical_name": "these events",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "869": {
+      "concept_id": "customary connexion",
+      "canonical_name": "customary connexion",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "870": {
+      "concept_id": "whole controversy",
+      "canonical_name": "whole controversy",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "871": {
+      "concept_id": "these two circumstances",
+      "canonical_name": "these two circumstances",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "872": {
+      "concept_id": "tacitus",
+      "canonical_name": "tacitus",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "873": {
+      "concept_id": "different ages",
+      "canonical_name": "different ages",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "874": {
+      "concept_id": "contrary causes",
+      "canonical_name": "contrary causes",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "875": {
+      "concept_id": "hypothetical liberty",
+      "canonical_name": "hypothetical liberty",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "876": {
+      "concept_id": "moral turpitude",
+      "canonical_name": "moral turpitude",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "877": {
+      "concept_id": "whole system",
+      "canonical_name": "whole system",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "878": {
+      "concept_id": "strong presumption",
+      "canonical_name": "strong presumption",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "879": {
+      "concept_id": "real presence",
+      "canonical_name": "real presence",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "880": {
+      "concept_id": "mutual destruction",
+      "canonical_name": "mutual destruction",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "881": {
+      "concept_id": "a kind",
+      "canonical_name": "a kind",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "882": {
+      "concept_id": "infinite number",
+      "canonical_name": "infinite number",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "883": {
+      "concept_id": "just reasoner",
+      "canonical_name": "just reasoner",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "884": {
+      "concept_id": "jansenist",
+      "canonical_name": "jansenist",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "885": {
+      "concept_id": "new system",
+      "canonical_name": "new system",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "886": {
+      "concept_id": "_christian religion",
+      "canonical_name": "_christian religion",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "887": {
+      "concept_id": "future state",
+      "canonical_name": "future state",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "888": {
+      "concept_id": "luciani",
+      "canonical_name": "luciani",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "889": {
+      "concept_id": "epicurus",
+      "canonical_name": "epicurus",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "890": {
+      "concept_id": "new inference",
+      "canonical_name": "new inference",
+      "source_books": [
+        "an_enquiry_concerning_human_understanding"
+      ]
+    },
+    "891": {
+      "concept_id": "higher men",
+      "canonical_name": "higher men",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "892": {
+      "concept_id": "superman",
+      "canonical_name": "superman",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "893": {
+      "concept_id": "ugliest man",
+      "canonical_name": "ugliest man",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "894": {
+      "concept_id": "nietzsche",
+      "canonical_name": "nietzsche",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "895": {
+      "concept_id": "higher man",
+      "canonical_name": "higher man",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "896": {
+      "concept_id": "eternal recurrence",
+      "canonical_name": "eternal recurrence",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "897": {
+      "concept_id": "par",
+      "canonical_name": "par",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "898": {
+      "concept_id": "o my brethren",
+      "canonical_name": "o my brethren",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "899": {
+      "concept_id": "o zarathustra",
+      "canonical_name": "o zarathustra",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "900": {
+      "concept_id": "thus spake zarathustra",
+      "canonical_name": "thus spake zarathustra",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "901": {
+      "concept_id": "mine animals",
+      "canonical_name": "mine animals",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "902": {
+      "concept_id": "o eternity",
+      "canonical_name": "o eternity",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "903": {
+      "concept_id": "new values",
+      "canonical_name": "new values",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "904": {
+      "concept_id": "voluntary beggar",
+      "canonical_name": "voluntary beggar",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "905": {
+      "concept_id": "prologue",
+      "canonical_name": "prologue",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "906": {
+      "concept_id": "highest hope",
+      "canonical_name": "highest hope",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "907": {
+      "concept_id": "bestowing virtue",
+      "canonical_name": "bestowing virtue",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "908": {
+      "concept_id": "bedwarfing virtue",
+      "canonical_name": "bedwarfing virtue",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "909": {
+      "concept_id": "right time",
+      "canonical_name": "right time",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "910": {
+      "concept_id": "many a one",
+      "canonical_name": "many a one",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "911": {
+      "concept_id": "old magician",
+      "canonical_name": "old magician",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "912": {
+      "concept_id": "beyond good and evil",
+      "canonical_name": "beyond good and evil",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "913": {
+      "concept_id": "nietzsche\u2019s philosophy",
+      "canonical_name": "nietzsche\u2019s philosophy",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "914": {
+      "concept_id": "first part",
+      "canonical_name": "first part",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "915": {
+      "concept_id": "stillest hour",
+      "canonical_name": "stillest hour",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "916": {
+      "concept_id": "mine eye",
+      "canonical_name": "mine eye",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "917": {
+      "concept_id": "wanteth",
+      "canonical_name": "wanteth",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "918": {
+      "concept_id": "great noontide",
+      "canonical_name": "great noontide",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "919": {
+      "concept_id": "mine enemies",
+      "canonical_name": "mine enemies",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "920": {
+      "concept_id": "great love",
+      "canonical_name": "great love",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "921": {
+      "concept_id": "old pope",
+      "canonical_name": "old pope",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "922": {
+      "concept_id": "notes",
+      "canonical_name": "notes",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "923": {
+      "concept_id": "famous wise ones",
+      "canonical_name": "famous wise ones",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "924": {
+      "concept_id": "immaculate perception",
+      "canonical_name": "immaculate perception",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "925": {
+      "concept_id": "great longing",
+      "canonical_name": "great longing",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "926": {
+      "concept_id": "last time",
+      "canonical_name": "last time",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "927": {
+      "concept_id": "rosy dawn",
+      "canonical_name": "rosy dawn",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "928": {
+      "concept_id": "new tables",
+      "canonical_name": "new tables",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "929": {
+      "concept_id": "pied cow",
+      "canonical_name": "pied cow",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "930": {
+      "concept_id": "happy isles",
+      "canonical_name": "happy isles",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "931": {
+      "concept_id": "greatest danger",
+      "canonical_name": "greatest danger",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "932": {
+      "concept_id": "last verse",
+      "canonical_name": "last verse",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "933": {
+      "concept_id": "seven seals",
+      "canonical_name": "seven seals",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "934": {
+      "concept_id": "honey sacrifice",
+      "canonical_name": "honey sacrifice",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "935": {
+      "concept_id": "great contempt",
+      "canonical_name": "great contempt",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "936": {
+      "concept_id": "free spirit",
+      "canonical_name": "free spirit",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "937": {
+      "concept_id": "last man",
+      "canonical_name": "last man",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "938": {
+      "concept_id": "the world",
+      "canonical_name": "the world",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "939": {
+      "concept_id": "very heart",
+      "canonical_name": "very heart",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "940": {
+      "concept_id": "high mountains",
+      "canonical_name": "high mountains",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "941": {
+      "concept_id": "good sleep",
+      "canonical_name": "good sleep",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "942": {
+      "concept_id": "old god",
+      "canonical_name": "old god",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "943": {
+      "concept_id": "what account",
+      "canonical_name": "what account",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "944": {
+      "concept_id": "great city",
+      "canonical_name": "great city",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "945": {
+      "concept_id": "last sin",
+      "canonical_name": "last sin",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "946": {
+      "concept_id": "conscientious one",
+      "canonical_name": "conscientious one",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "947": {
+      "concept_id": "petty people",
+      "canonical_name": "petty people",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "948": {
+      "concept_id": "chapter lvii",
+      "canonical_name": "chapter lvii",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "949": {
+      "concept_id": "new idol",
+      "canonical_name": "new idol",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "950": {
+      "concept_id": "young women",
+      "canonical_name": "young women",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "951": {
+      "concept_id": "second part",
+      "canonical_name": "second part",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "952": {
+      "concept_id": "great events",
+      "canonical_name": "great events",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "953": {
+      "concept_id": "enigma",
+      "canonical_name": "enigma",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "954": {
+      "concept_id": "return home",
+      "canonical_name": "return home",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "955": {
+      "concept_id": "new table",
+      "canonical_name": "new table",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "956": {
+      "concept_id": "wretched self-complacency",
+      "canonical_name": "wretched self-complacency",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "957": {
+      "concept_id": "evil eye",
+      "canonical_name": "evil eye",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "958": {
+      "concept_id": "open air",
+      "canonical_name": "open air",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "959": {
+      "concept_id": "loving ones",
+      "canonical_name": "loving ones",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "960": {
+      "concept_id": "heavy cloud",
+      "canonical_name": "heavy cloud",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "961": {
+      "concept_id": "ye wisest ones",
+      "canonical_name": "ye wisest ones",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "962": {
+      "concept_id": "living thing",
+      "canonical_name": "living thing",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "963": {
+      "concept_id": "o happiness",
+      "canonical_name": "o happiness",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "964": {
+      "concept_id": "good things",
+      "canonical_name": "good things",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "965": {
+      "concept_id": "voluptuousness",
+      "canonical_name": "voluptuousness",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "966": {
+      "concept_id": "o my soul",
+      "canonical_name": "o my soul",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "967": {
+      "concept_id": "two kings",
+      "canonical_name": "two kings",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "968": {
+      "concept_id": "first men",
+      "canonical_name": "first men",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "969": {
+      "concept_id": "great man",
+      "canonical_name": "great man",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "970": {
+      "concept_id": "these mountains",
+      "canonical_name": "these mountains",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "971": {
+      "concept_id": "old soothsayer",
+      "canonical_name": "old soothsayer",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "972": {
+      "concept_id": "good air",
+      "canonical_name": "good air",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "973": {
+      "concept_id": "academic chairs",
+      "canonical_name": "academic chairs",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "974": {
+      "concept_id": "pale criminal",
+      "canonical_name": "pale criminal",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "975": {
+      "concept_id": "third part",
+      "canonical_name": "third part",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "976": {
+      "concept_id": "three evil things",
+      "canonical_name": "three evil things",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "977": {
+      "concept_id": "whose soul",
+      "canonical_name": "whose soul",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "978": {
+      "concept_id": "spake zarathustra",
+      "canonical_name": "spake zarathustra",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "979": {
+      "concept_id": "highest virtue",
+      "canonical_name": "highest virtue",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "980": {
+      "concept_id": "mine eagle",
+      "canonical_name": "mine eagle",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "981": {
+      "concept_id": "great despisers",
+      "canonical_name": "great despisers",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "982": {
+      "concept_id": "weak reason",
+      "canonical_name": "weak reason",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "983": {
+      "concept_id": "poisonous flies",
+      "canonical_name": "poisonous flies",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "984": {
+      "concept_id": "ye men",
+      "canonical_name": "ye men",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "985": {
+      "concept_id": "wild wisdom",
+      "canonical_name": "wild wisdom",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "986": {
+      "concept_id": "what thou",
+      "canonical_name": "what thou",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "987": {
+      "concept_id": "ye virtuous ones",
+      "canonical_name": "ye virtuous ones",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "988": {
+      "concept_id": "free spirits",
+      "canonical_name": "free spirits",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "989": {
+      "concept_id": "mine ear",
+      "canonical_name": "mine ear",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "990": {
+      "concept_id": "living things",
+      "canonical_name": "living things",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "991": {
+      "concept_id": "ye present-day men",
+      "canonical_name": "ye present-day men",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "992": {
+      "concept_id": "highest time",
+      "canonical_name": "highest time",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "993": {
+      "concept_id": "one voice",
+      "canonical_name": "one voice",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "994": {
+      "concept_id": "o afternoon",
+      "canonical_name": "o afternoon",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "995": {
+      "concept_id": "mine ears",
+      "canonical_name": "mine ears",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "996": {
+      "concept_id": "little children",
+      "canonical_name": "little children",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "997": {
+      "concept_id": "old and new tables",
+      "canonical_name": "old and new tables",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "998": {
+      "concept_id": "good cheer",
+      "canonical_name": "good cheer",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "999": {
+      "concept_id": "three times",
+      "canonical_name": "three times",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1000": {
+      "concept_id": "long ears",
+      "canonical_name": "long ears",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1001": {
+      "concept_id": "who art",
+      "canonical_name": "who art",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1002": {
+      "concept_id": "higher ones",
+      "canonical_name": "higher ones",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1003": {
+      "concept_id": "ye good dancers",
+      "canonical_name": "ye good dancers",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1004": {
+      "concept_id": "selah",
+      "canonical_name": "selah",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1005": {
+      "concept_id": "nietzsche\u2019s life",
+      "canonical_name": "nietzsche\u2019s life",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1006": {
+      "concept_id": "twilight of the idols",
+      "canonical_name": "twilight of the idols",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1007": {
+      "concept_id": "nietzsche\u2019s views",
+      "canonical_name": "nietzsche\u2019s views",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1008": {
+      "concept_id": "modern man",
+      "canonical_name": "modern man",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1009": {
+      "concept_id": "zarathustra\u2019s discourses",
+      "canonical_name": "zarathustra\u2019s discourses",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1010": {
+      "concept_id": "mirror",
+      "canonical_name": "mirror",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1011": {
+      "concept_id": "sublime ones",
+      "canonical_name": "sublime ones",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1012": {
+      "concept_id": "involuntary bliss",
+      "canonical_name": "involuntary bliss",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1013": {
+      "concept_id": "second dance-song",
+      "canonical_name": "second dance-song",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1014": {
+      "concept_id": "shadow",
+      "canonical_name": "shadow",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1015": {
+      "concept_id": "ass-festival",
+      "canonical_name": "ass-festival",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1016": {
+      "concept_id": "smallest man",
+      "canonical_name": "smallest man",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1017": {
+      "concept_id": "ecce homo",
+      "canonical_name": "ecce homo",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1018": {
+      "concept_id": "\u201cthus spake zarathustra",
+      "canonical_name": "\u201cthus spake zarathustra",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1019": {
+      "concept_id": "fourth part",
+      "canonical_name": "fourth part",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1020": {
+      "concept_id": "these notes",
+      "canonical_name": "these notes",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1021": {
+      "concept_id": "other thinker",
+      "canonical_name": "other thinker",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1022": {
+      "concept_id": "not a goal",
+      "canonical_name": "not a goal",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1023": {
+      "concept_id": "new truth",
+      "canonical_name": "new truth",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1024": {
+      "concept_id": "one\u2019s wisdom",
+      "canonical_name": "one\u2019s wisdom",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1025": {
+      "concept_id": "great dragon",
+      "canonical_name": "great dragon",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1026": {
+      "concept_id": "the virtues",
+      "canonical_name": "the virtues",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1027": {
+      "concept_id": "mine ego",
+      "canonical_name": "mine ego",
+      "source_books": [
+        "thus_spoke_zarathustra"
+      ]
+    },
+    "1028": {
+      "concept_id": "sun tz\u016d",
+      "canonical_name": "sun tz\u016d",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1029": {
+      "concept_id": "ts\u2019ao kung",
+      "canonical_name": "ts\u2019ao kung",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1030": {
+      "concept_id": "pan ch\u2019ao",
+      "canonical_name": "pan ch\u2019ao",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1031": {
+      "concept_id": "ssu-ma ch\u2019ien",
+      "canonical_name": "ssu-ma ch\u2019ien",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1032": {
+      "concept_id": "13 chapters",
+      "canonical_name": "13 chapters",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1033": {
+      "concept_id": "li ch\u2019uan",
+      "canonical_name": "li ch\u2019uan",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1034": {
+      "concept_id": "art of war",
+      "canonical_name": "art of war",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1035": {
+      "concept_id": "sun hsing-yen",
+      "canonical_name": "sun hsing-yen",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1036": {
+      "concept_id": "ch\u2019in",
+      "canonical_name": "ch\u2019in",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1037": {
+      "concept_id": "_shih chi",
+      "canonical_name": "_shih chi",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1038": {
+      "concept_id": "sun pin",
+      "canonical_name": "sun pin",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1039": {
+      "concept_id": "_tso chuan",
+      "canonical_name": "_tso chuan",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1040": {
+      "concept_id": "whole army",
+      "canonical_name": "whole army",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1041": {
+      "concept_id": "ch\u2019i state",
+      "canonical_name": "ch\u2019i state",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1042": {
+      "concept_id": "wu ch\u2019i",
+      "canonical_name": "wu ch\u2019i",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1043": {
+      "concept_id": "tactical dispositions",
+      "canonical_name": "tactical dispositions",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1044": {
+      "concept_id": "han hsin",
+      "canonical_name": "han hsin",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1045": {
+      "concept_id": "nine situations",
+      "canonical_name": "nine situations",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1046": {
+      "concept_id": "ts\u2019ao ts\u2019ao",
+      "canonical_name": "ts\u2019ao ts\u2019ao",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1047": {
+      "concept_id": "hsiung-nu",
+      "canonical_name": "hsiung-nu",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1048": {
+      "concept_id": "enemy\u2019s camp",
+      "canonical_name": "enemy\u2019s camp",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1049": {
+      "concept_id": "yellow emperor",
+      "canonical_name": "yellow emperor",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1050": {
+      "concept_id": "_t\u2019ung tien",
+      "canonical_name": "_t\u2019ung tien",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1051": {
+      "concept_id": "great general",
+      "canonical_name": "great general",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1052": {
+      "concept_id": "sun tz\u016d\u2019s work",
+      "canonical_name": "sun tz\u016d\u2019s work",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1053": {
+      "concept_id": "y\u00fceh",
+      "canonical_name": "y\u00fceh",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1054": {
+      "concept_id": "_hou han shu",
+      "canonical_name": "_hou han shu",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1055": {
+      "concept_id": "moral law",
+      "canonical_name": "moral law",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1056": {
+      "concept_id": "open ground",
+      "canonical_name": "open ground",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1057": {
+      "concept_id": "city walls",
+      "canonical_name": "city walls",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1058": {
+      "concept_id": "ssu-ma",
+      "canonical_name": "ssu-ma",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1059": {
+      "concept_id": "chao she",
+      "canonical_name": "chao she",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1060": {
+      "concept_id": "intersecting highways",
+      "canonical_name": "intersecting highways",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1061": {
+      "concept_id": "hostile territory",
+      "canonical_name": "hostile territory",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1062": {
+      "concept_id": "serious ground",
+      "canonical_name": "serious ground",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1063": {
+      "concept_id": "converted spy",
+      "canonical_name": "converted spy",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1064": {
+      "concept_id": "british museum",
+      "canonical_name": "british museum",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1065": {
+      "concept_id": "military matters",
+      "canonical_name": "military matters",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1066": {
+      "concept_id": "ssu-ma ch\u2019ien\u2019s",
+      "canonical_name": "ssu-ma ch\u2019ien\u2019s",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1067": {
+      "concept_id": "tso\u2019s commentary",
+      "canonical_name": "tso\u2019s commentary",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1068": {
+      "concept_id": "military weapons",
+      "canonical_name": "military weapons",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1069": {
+      "concept_id": "good general",
+      "canonical_name": "good general",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1070": {
+      "concept_id": "ssu-ma jang-chu",
+      "canonical_name": "ssu-ma jang-chu",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1071": {
+      "concept_id": "t\u2019ai kung",
+      "canonical_name": "t\u2019ai kung",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1072": {
+      "concept_id": "present passage",
+      "canonical_name": "present passage",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1073": {
+      "concept_id": "favourable position",
+      "canonical_name": "favourable position",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1074": {
+      "concept_id": "critical moment",
+      "canonical_name": "critical moment",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1075": {
+      "concept_id": "long run",
+      "canonical_name": "long run",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1076": {
+      "concept_id": "right moment",
+      "canonical_name": "right moment",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1077": {
+      "concept_id": "following anecdote",
+      "canonical_name": "following anecdote",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1078": {
+      "concept_id": "great distance",
+      "canonical_name": "great distance",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1079": {
+      "concept_id": "difficult ground",
+      "canonical_name": "difficult ground",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1080": {
+      "concept_id": "nine variations",
+      "canonical_name": "nine variations",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1081": {
+      "concept_id": "t\u2019ien tan",
+      "canonical_name": "t\u2019ien tan",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1082": {
+      "concept_id": "facile ground",
+      "canonical_name": "facile ground",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1083": {
+      "concept_id": "contentious ground",
+      "canonical_name": "contentious ground",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1084": {
+      "concept_id": "desperate ground",
+      "canonical_name": "desperate ground",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1085": {
+      "concept_id": "spies",
+      "canonical_name": "spies",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1086": {
+      "concept_id": "sun tz\u016d\u2019s text",
+      "canonical_name": "sun tz\u016d\u2019s text",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1087": {
+      "concept_id": "left hand",
+      "canonical_name": "left hand",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1088": {
+      "concept_id": "crushing defeat",
+      "canonical_name": "crushing defeat",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1089": {
+      "concept_id": "chapter v",
+      "canonical_name": "chapter v",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1090": {
+      "concept_id": "ts\u2019ai",
+      "canonical_name": "ts\u2019ai",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1091": {
+      "concept_id": "_wu y\u00fceh ch\u2019un ch\u2019iu",
+      "canonical_name": "_wu y\u00fceh ch\u2019un ch\u2019iu",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1092": {
+      "concept_id": "_lun yu",
+      "canonical_name": "_lun yu",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1093": {
+      "concept_id": "pi i-hsun",
+      "canonical_name": "pi i-hsun",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1094": {
+      "concept_id": "sun wu",
+      "canonical_name": "sun wu",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1095": {
+      "concept_id": "spring and autumn",
+      "canonical_name": "spring and autumn",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1096": {
+      "concept_id": "chou dynasty",
+      "canonical_name": "chou dynasty",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1097": {
+      "concept_id": "military conditions",
+      "canonical_name": "military conditions",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1098": {
+      "concept_id": "two states",
+      "canonical_name": "two states",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1099": {
+      "concept_id": "i shuo",
+      "canonical_name": "i shuo",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1100": {
+      "concept_id": "t\u2019ang dynasty",
+      "canonical_name": "t\u2019ang dynasty",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1101": {
+      "concept_id": "famous generals",
+      "canonical_name": "famous generals",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1102": {
+      "concept_id": "tu mu",
+      "canonical_name": "tu mu",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1103": {
+      "concept_id": "_ch\u2019un ch\u2019iu",
+      "canonical_name": "_ch\u2019un ch\u2019iu",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1104": {
+      "concept_id": "personal name",
+      "canonical_name": "personal name",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1105": {
+      "concept_id": "military topics",
+      "canonical_name": "military topics",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1106": {
+      "concept_id": "five classes",
+      "canonical_name": "five classes",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1107": {
+      "concept_id": "nos",
+      "canonical_name": "nos",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1108": {
+      "concept_id": "which side",
+      "canonical_name": "which side",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1109": {
+      "concept_id": "supreme excellence",
+      "canonical_name": "supreme excellence",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1110": {
+      "concept_id": "hence the saying",
+      "canonical_name": "hence the saying",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1111": {
+      "concept_id": "two armies",
+      "canonical_name": "two armies",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1112": {
+      "concept_id": "third term",
+      "canonical_name": "third term",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1113": {
+      "concept_id": "weak points",
+      "canonical_name": "weak points",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1114": {
+      "concept_id": "combined energy",
+      "canonical_name": "combined energy",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1115": {
+      "concept_id": "ssu-ma i",
+      "canonical_name": "ssu-ma i",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1116": {
+      "concept_id": "enemy\u2019s dispositions",
+      "canonical_name": "enemy\u2019s dispositions",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1117": {
+      "concept_id": "lien p\u2019o",
+      "canonical_name": "lien p\u2019o",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1118": {
+      "concept_id": "forced marches",
+      "canonical_name": "forced marches",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1119": {
+      "concept_id": "natural advantages",
+      "canonical_name": "natural advantages",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1120": {
+      "concept_id": "local guides",
+      "canonical_name": "local guides",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1121": {
+      "concept_id": "narrow pass",
+      "canonical_name": "narrow pass",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1122": {
+      "concept_id": "desperate men",
+      "canonical_name": "desperate men",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1123": {
+      "concept_id": "col. henderson",
+      "canonical_name": "col. henderson",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1124": {
+      "concept_id": "marshal turenne",
+      "canonical_name": "marshal turenne",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1125": {
+      "concept_id": "certain road",
+      "canonical_name": "certain road",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1126": {
+      "concept_id": "hostile country",
+      "canonical_name": "hostile country",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1127": {
+      "concept_id": "ch\u2019i chieh",
+      "canonical_name": "ch\u2019i chieh",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1128": {
+      "concept_id": "yen army",
+      "canonical_name": "yen army",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1129": {
+      "concept_id": "close watch",
+      "canonical_name": "close watch",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1130": {
+      "concept_id": "good service",
+      "canonical_name": "good service",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1131": {
+      "concept_id": "dispersive ground",
+      "canonical_name": "dispersive ground",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1132": {
+      "concept_id": "hemmed-in ground",
+      "canonical_name": "hemmed-in ground",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1133": {
+      "concept_id": "desperate straits",
+      "canonical_name": "desperate straits",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1134": {
+      "concept_id": "nine grounds",
+      "canonical_name": "nine grounds",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    },
+    "1135": {
+      "concept_id": "inward spies",
+      "canonical_name": "inward spies",
+      "source_books": [
+        "the_art_of_war"
+      ]
+    }
+  },
+  "book": {
+    "0": {
+      "title": "The Wealth of Nations"
+    },
+    "1": {
+      "title": "Meditations"
+    },
+    "2": {
+      "title": "The Republic"
+    },
+    "3": {
+      "title": "On the Origin of Species"
+    },
+    "4": {
+      "title": "The Prince"
+    },
+    "5": {
+      "title": "Leviathan"
+    },
+    "6": {
+      "title": "An Enquiry Concerning Human Understanding"
+    },
+    "7": {
+      "title": "Thus Spoke Zarathustra"
+    },
+    "8": {
+      "title": "The Art of War"
+    }
+  },
+  "author": {
+    "0": {
+      "name": "Adam Smith"
+    },
+    "1": {
+      "name": "Marcus Aurelius"
+    },
+    "2": {
+      "name": "Plato"
+    },
+    "3": {
+      "name": "Charles Darwin"
+    },
+    "4": {
+      "name": "Niccolo Machiavelli"
+    },
+    "5": {
+      "name": "Thomas Hobbes"
+    },
+    "6": {
+      "name": "David Hume"
+    },
+    "7": {
+      "name": "Friedrich Nietzsche"
+    },
+    "8": {
+      "name": "Sun Tzu"
+    }
+  }
+}
